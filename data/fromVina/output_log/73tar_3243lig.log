@@ -1,0 +1,43 @@
+AutoDock Vina v1.2.3
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli  #
+# AutoDock Vina 1.2.0: New Docking Methods, Expanded Force      #
+# Field, and Python Bindings, J. Chem. Inf. Model. (2021)       #
+# DOI 10.1021/acs.jcim.1c00203                                  #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, J. Comp. Chem. (2010)                         #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see https://github.com/ccsb-scripps/AutoDock-Vina for  #
+# more information.                                             #
+#################################################################
+
+Scoring function : ad4
+Ligand: /home/scip/dmitriy.pustoshilov/home/dpustoshilov/test/work/3243lig.pdbqt
+Exhaustiveness: 8
+CPU: 8
+Verbosity: 1
+
+Reading AD4.2 maps ... done.
+Performing docking (random seed: -2021768460) ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         3149          0          0
+   2         3176      6.767      8.456
+   3         3212      3.333      4.201
+   4         3287      3.559      5.064
+   5         3380      2.545      4.272
+   6         3467      3.154      7.495
+   7         3521      7.623      10.76
+   8         3714      4.096      6.189
+   9         3721      4.734      7.311

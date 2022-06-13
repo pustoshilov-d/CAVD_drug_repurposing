@@ -1,0 +1,98 @@
+
+       _______________________________________________________
+
+__________//____________________________/////_________________/________
+_________/__/____________/_____________/______________/_______/________
+________/____/___________/_____________/______________________/________
+________/____/__/_____/_/////___/////__/__////_/_///__/__////_/________
+_______/______/_/_____/__/_____/_____/_/_____/_//___/_/_/____//________
+_______////////_/_____/__/_____/_____/_/_____/_/______/_/_____/________
+_______/______/_/____//__/___/_/_____/_/_____/_/______/_/____//________
+_______/______/__////_/___///___/////___/////__/______/__////_/________
+
+       _______________________________________________________
+
+                                ______
+                               /      \
+                              /        \
+                             /          \
+                             \    /\    /
+                              \  /  \  /
+                               \/ /\ \/
+                                 /  \
+                                /____\
+
+
+                ______________________________________ 
+               |                                      |
+               |            AutoGrid 4.2.6            |
+               |                                      |
+               |        Garrett M. Morris, TSRI       |
+               |            Ruth Huey, TSRI           |
+               |        David S. Goodsell, TSRI       |
+               |         Arthur J. Olson, TSRI        |
+               |                                      |
+               |        (C) 1989-2009, TSRI           |
+               |   The Scripps Research Institute     |
+               |______________________________________|
+
+                ______________________________________ 
+               |                                      |
+               | Calculation of van der Waals, H-Bond,|
+               |   Electrostatic Potential Energy, &  |
+               |   Desolvation Free Energy Grid Maps  |
+               |             for AutoDock             |
+               | For help, email autodock@scripps.edu |
+               |______________________________________|
+
+
+
+
+                           $Revision: 1.109 $
+Compilation parameters:  NUM_RECEPTOR_TYPES=20 NEINT=2048
+   MAX_MAPS=16 NDIEL=16384 MAX_ATOM_TYPES=14
+ energy_lookup table has   655360 entries of size 8
+        e_vdW_Hb table has   401408 entries of size 8
+Maximum number of maps that can be computed = 16 (defined by MAX_MAPS in "autocomm.h").
+This file was created at:			5:40 05" a.m., 06/13/2022
+                   using:			"LP-0416"
+
+
+GPF> npts 41 40 40                        # num.grid points in xyz
+C:\Bioinformatics\Vina\4.2.6\autogrid4.exe: Number of grid elements must be even; x-elements changed to: 40
+
+Number of grid points in x-direction:	41
+Number of grid points in y-direction:	41
+Number of grid points in z-direction:	41
+
+GPF> gridfld 1tar.maps.fld                # grid_data_file
+
+Creating (AVS-readable) grid maps file : 1tar.maps.fld
+
+Creating (AVS-readable) grid-coordinates extrema file : 1tar.maps.xyz
+
+GPF> spacing 0.375                        # spacing(A)
+Grid Spacing :			0.375 Angstrom
+
+GPF> receptor_types A C OA N SA HD        # receptor atom types
+GPF> ligand_types C HD OA                 # ligand atom types
+
+Atom type names for ligand atom types 1-3 used for ligand-atom affinity grid maps:
+
+			Atom type number 0 corresponds to atom type name "C".
+			Atom type number 1 corresponds to atom type name "HD".
+			Atom type number 2 corresponds to atom type name "OA".
+
+
+GPF> receptor 1tar.pdbqt                  # macromolecule
+
+Receptor Input File :	1tar.pdbqt
+
+Receptor Atom Type Assignments:
+
+
+C:\Bioinformatics\Vina\4.2.6\autogrid4.exe: ERROR:  can't find or open receptor PDBQT file "1tar.pdbqt".
+
+
+
+C:\Bioinformatics\Vina\4.2.6\autogrid4.exe: Unsuccessful Completion.

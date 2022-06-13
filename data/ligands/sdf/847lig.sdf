@@ -1,0 +1,142 @@
+6419722
+  -OEChem-10051719083D
+
+ 14 13  0     1  0  0  0  0  0999 V2000
+   -2.0967    0.7610    0.8949 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9341   -0.3652    0.5979 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0094    1.5292   -0.2746 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3481   -1.8345    0.1294 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.1063   -0.5464   -0.5969 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4561    0.1679   -0.7053 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0638    0.2880   -0.0454 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1969   -0.8561   -1.6049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3694    1.0377   -1.3653 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2090   -0.4944   -1.1469 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5095   -2.4010    0.1738 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0673   -2.4054   -0.3347 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6575   -1.6674    1.0962 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1081    1.6310    1.1478 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB00151
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XUJNEKJLAYXESH-REOHCLBHSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CS)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1
+
+> <INCHI_KEY>
+XUJNEKJLAYXESH-REOHCLBHSA-N
+
+> <FORMULA>
+C3H7NO2S
+
+> <MOLECULAR_WEIGHT>
+121.158
+
+> <EXACT_MASS>
+121.019749163
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00961289343552374
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.40532279226667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-sulfanylpropanoic acid
+
+> <ALOGPS_LOGP>
+-2.57
+
+> <JCHEM_LOGP>
+-2.7921332976482773
+
+> <ALOGPS_LOGS>
+-0.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.171891903949282
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.345995198078135
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.053809511128133
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+28.2236
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.31e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

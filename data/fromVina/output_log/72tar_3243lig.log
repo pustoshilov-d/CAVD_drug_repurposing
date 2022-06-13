@@ -1,0 +1,43 @@
+AutoDock Vina v1.2.3
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli  #
+# AutoDock Vina 1.2.0: New Docking Methods, Expanded Force      #
+# Field, and Python Bindings, J. Chem. Inf. Model. (2021)       #
+# DOI 10.1021/acs.jcim.1c00203                                  #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, J. Comp. Chem. (2010)                         #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see https://github.com/ccsb-scripps/AutoDock-Vina for  #
+# more information.                                             #
+#################################################################
+
+Scoring function : ad4
+Ligand: /home/scip/dmitriy.pustoshilov/home/dpustoshilov/test/work/3243lig.pdbqt
+Exhaustiveness: 8
+CPU: 8
+Verbosity: 1
+
+Reading AD4.2 maps ... done.
+Performing docking (random seed: 288506088) ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         2765          0          0
+   2         2836      8.457      11.39
+   3         2875      7.959      9.748
+   4         2935      2.085      7.647
+   5         2974      1.447      1.976
+   6         3001      2.565      4.423
+   7         3023      3.405       6.14
+   8         3184      1.647      7.774
+   9         3250      8.345      12.12

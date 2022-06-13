@@ -1,0 +1,164 @@
+44473425
+  -OEChem-05201910443D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+   -4.5370   -0.6568   -0.5560 F  -1  0  0  0  0  0  0  0  0  0  0  0
+   -0.1323    2.1387    0.7864 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7675    1.7772   -1.3614 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9962    0.8870    1.2073 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9434   -1.3811    1.2277 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0851   -0.8560   -1.6667 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2968   -0.1403    0.0692 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7538   -0.8220   -0.8335 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6947   -0.7700   -0.0774 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1591   -0.1944   -0.7526 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7347   -0.1606    0.8678 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4207    1.3382   -0.2724 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0880   -0.8360    0.7144 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7342   -0.3238    0.6471 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0176   -0.2352    1.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8064   -1.8854   -0.5636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4087   -0.7805   -1.8756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0425   -0.6669   -1.1135 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6192   -1.8464    0.1225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1122    0.8651   -1.0279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3964   -0.2546    1.9057 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8581    0.9058    0.6509 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8220   -0.3962    1.3956 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0280   -1.9112    0.9064 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9779   -0.3638   -1.6670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7278   -0.7957   -2.6194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2285    3.0888    0.5627 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3642    0.7986    2.1123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 14  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+M  ISO  1   1  18
+M  END
+> <DATABASE_ID>
+DB15041
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MKDNDKMECWBLOF-XUCPOOORSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](C[C@H](CCC[18F])C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H14FNO4/c9-3-1-2-5(7(11)12)4-6(10)8(13)14/h5-6H,1-4,10H2,(H,11,12)(H,13,14)/t5-,6-/m0/s1/i9-1
+
+> <INCHI_KEY>
+MKDNDKMECWBLOF-XUCPOOORSA-N
+
+> <FORMULA>
+C8H14FNO4
+
+> <MOLECULAR_WEIGHT>
+206.204
+
+> <EXACT_MASS>
+206.093220602
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.383363358737405
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4S)-2-amino-4-[3-(¹⁸F)fluoropropyl]pentanedioic acid
+
+> <ALOGPS_LOGP>
+-3.05
+
+> <JCHEM_LOGP>
+-2.373432665598702
+
+> <ALOGPS_LOGS>
+-1.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+4.507583603063142
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.218659826815006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.528129678796448
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.62
+
+> <JCHEM_REFRACTIVITY>
+45.3008
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.92e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

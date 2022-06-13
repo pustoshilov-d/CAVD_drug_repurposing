@@ -1,0 +1,1238 @@
+BEId	action	group	id	name	pharmAction	proteinId
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	
+BE0004903	regulator	approved, nutraceutical	DB13961	Fish oil	unknown	
+BE0004903	translocation inhibitor	approved, experimental	DB13751	Glycyrrhizic acid	yes	
+BE0004903	inhibitor	investigational	DB05559	NF-kappaB Decoy	unknown	
+BE0004903	inhibitor	approved	DB00843	Donepezil	unknown	
+BE0004903	inhibitor	investigational	DB01411	Pranlukast	unknown	
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q9UGI9
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q9UGI9
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	Q9UGI9
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	Q9UGI9
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q9UGJ0
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q9UGJ0
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	Q9UGJ0
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	Q9UGJ0
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	P54646
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P54646
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	P54646
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	P54646
+BE0004907	induceractivator	approved	DB00331	Metformin	yes	Q9Y478
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	unknown	Q9Y478
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q9Y478
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q9Y478
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	Q9Y478
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	Q9Y478
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	unknown	Q13131
+BE0004907		investigational, nutraceutical	DB00171	ATP	unknown	Q13131
+BE0004907	activator	approved, investigational, withdrawn	DB00914	Phenformin	yes	Q13131
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q13131
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q13131
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q13131
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	Q13131
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	Q13131
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	P54619
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P54619
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	P54619
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	P54619
+BE0004907	activator	approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	O43741
+BE0004907	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	O43741
+BE0004907	inducer	approved	DB00273	Topiramate	unknown	O43741
+BE0004907	activator	approved, investigational, nutraceutical	DB00131	Adenosine phosphate	yes	O43741
+BE0001172		experimental	DB07812	N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide	unknown	
+BE0001172		experimental	DB07859	4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE	unknown	
+BE0001172		experimental	DB07947	ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE	unknown	
+BE0001172		experimental	DB08073	(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE	unknown	
+BE0004903		investigational	DB05212	HE3286	unknown	Q00653
+BE0004903		investigational	DB05451	P54	unknown	Q00653
+BE0004903		investigational	DB05464	NOX-700	unknown	Q00653
+BE0004903		investigational	DB05471	SGN-30	unknown	Q00653
+BE0004903		investigational	DB05767	Andrographolide	unknown	Q00653
+BE0004903		investigational	DB05487	Custirsen	unknown	Q00653
+BE0004903	regulator	approved, nutraceutical	DB13961	Fish oil	unknown	Q00653
+BE0004903	translocation inhibitor	approved, experimental	DB13751	Glycyrrhizic acid	yes	Q00653
+BE0004903	inhibitor	investigational	DB05559	NF-kappaB Decoy	unknown	Q00653
+BE0004903	inhibitor	approved	DB00843	Donepezil	unknown	Q00653
+BE0004903	inhibitor	investigational	DB01411	Pranlukast	unknown	Q00653
+BE0004903	inhibitor	experimental, investigational	DB14059	SC-236	yes	Q00653
+BE0004903	other/unknown	investigational	DB01411	Pranlukast	unknown	P19838
+BE0004903		investigational	DB05212	HE3286	unknown	P19838
+BE0004903		investigational	DB05451	P54	unknown	P19838
+BE0004903		investigational	DB05464	NOX-700	unknown	P19838
+BE0004903		investigational	DB05471	SGN-30	unknown	P19838
+BE0004903		investigational	DB05767	Andrographolide	unknown	P19838
+BE0004903		investigational	DB05487	Custirsen	unknown	P19838
+BE0004903	antagonist	approved, investigational	DB08814	Triflusal	yes	P19838
+BE0004903	inhibitor	approved	DB00852	Pseudoephedrine	unknown	P19838
+BE0004903	regulator	approved, nutraceutical	DB13961	Fish oil	unknown	P19838
+BE0004903	translocation inhibitor	approved, experimental	DB13751	Glycyrrhizic acid	yes	P19838
+BE0004903	inhibitor	investigational	DB05559	NF-kappaB Decoy	unknown	P19838
+BE0004903	inhibitor	approved	DB00843	Donepezil	unknown	P19838
+BE0004903	inhibitor	investigational	DB01411	Pranlukast	unknown	P19838
+BE0004903	inhibitor	experimental, investigational	DB14059	SC-236	yes	P19838
+BE0000428		investigational, nutraceutical	DB00171	ATP	unknown	
+BE0000428	inducer	approved, investigational	DB01169	Arsenic trioxide	unknown	
+BE0000428		experimental	DB01863	Inositol 1,3,4,5-Tetrakisphosphate	unknown	
+BE0000428		investigational	DB05971	Archexin	unknown	
+BE0000428		investigational	DB06486	Enzastaurin	unknown	
+BE0000428		investigational	DB06641	Perifosine	unknown	
+BE0000428		experimental	DB07584	N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine	unknown	
+BE0000428		experimental	DB07585	5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine	unknown	
+BE0000428		investigational	DB01645	Genistein	unknown	
+BE0000428	inhibitor	investigational	DB02709	Resveratrol	unknown	
+BE0001172		experimental	DB07812	N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide	unknown	P31751
+BE0001172		experimental	DB07859	4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE	unknown	P31751
+BE0001172		experimental	DB07947	ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE	unknown	P31751
+BE0001172		experimental	DB08073	(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE	unknown	P31751
+BE0005803	agonistactivator	approved, vet_approved	DB09140	Oxygen	unknown	
+BE0000428		investigational, nutraceutical	DB00171	ATP	unknown	P31749
+BE0000428	inducer	approved, investigational	DB01169	Arsenic trioxide	unknown	P31749
+BE0000428		experimental	DB01863	Inositol 1,3,4,5-Tetrakisphosphate	unknown	P31749
+BE0000428		investigational	DB05971	Archexin	unknown	P31749
+BE0000428		investigational	DB06486	Enzastaurin	unknown	P31749
+BE0000428		investigational	DB06641	Perifosine	unknown	P31749
+BE0000428		experimental	DB07584	N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine	unknown	P31749
+BE0000428		experimental	DB07585	5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine	unknown	P31749
+BE0000428		investigational	DB01645	Genistein	unknown	P31749
+BE0000428	inhibitor	investigational	DB02709	Resveratrol	unknown	P31749
+BE0003546	substrate	approved, investigational	DB01143	Amifostine	unknown	
+BE0003546	cofactor	approved, investigational	DB09498	Strontium chloride Sr-89	no	
+BE0003546	antagonist	experimental	DB09338	Mersalyl	unknown	
+BE0003546	substrate	approved, investigational, nutraceutical, vet_approved	DB00165	Pyridoxine	unknown	
+BE0003546	substrate	approved, investigational, nutraceutical, vet_approved	DB00165	Pyridoxine	unknown	
+BE0005803	agonistactivator	approved, vet_approved	DB09140	Oxygen	unknown	Q9Y5S8
+BE0003546	substrate	approved, investigational	DB01143	Amifostine	unknown	P05186
+BE0003546	cofactor	approved, investigational	DB09498	Strontium chloride Sr-89	no	P05186
+BE0003546	antagonist	experimental	DB09338	Mersalyl	unknown	P05186
+BE0003546	substrate	approved, investigational, nutraceutical, vet_approved	DB00165	Pyridoxine	unknown	P05186
+BE0003546	substrate	approved, investigational, nutraceutical, vet_approved	DB00165	Pyridoxine	unknown	P05186
+BE0009550	inhibitor	experimental, vet_approved	DB11455	Robenacoxib	unknown	
+BE0009550	inhibitor	experimental, investigational	DB14059	SC-236	yes	
+BE0009550	inhibitor	experimental	DB14060	NS-398	yes	
+BE0000985		approved, investigational	DB03904	Urea	unknown	
+BE0009550	inhibitor	experimental, vet_approved	DB11455	Robenacoxib	unknown	Q8SPQ9
+BE0009550	inhibitor	experimental, investigational	DB14059	SC-236	yes	Q8SPQ9
+BE0009550	inhibitor	experimental	DB14060	NS-398	yes	Q8SPQ9
+BE0000918	antagonist	investigational, nutraceutical	DB01404	Ginseng	unknown	
+BE0000918		investigational	DB05017	YSIL6	unknown	
+BE0000918		investigational	DB05470	VX-702	unknown	
+BE0000918		investigational	DB05744	CRx-139	unknown	
+BE0000918		investigational	DB05767	Andrographolide	unknown	
+BE0000918		approved, investigational	DB11967	Binimetinib	unknown	
+BE0000918		investigational	DB05513	Atiprimod	unknown	
+BE0000918	antagonistantibody	approved, investigational	DB09036	Siltuximab	yes	
+BE0000918		investigational	DB12140	Dilmapimod	unknown	
+BE0000918	inhibitor	experimental	DB09221	Polaprezinc	unknown	
+BE0000918	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	
+BE0000918	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	
+BE0000918	antagonist	investigational	DB13127	Olokizumab	yes	
+BE0000961		investigational	DB05434	ABT-510	unknown	
+BE0000961		investigational	DB05484	MDX-018	unknown	
+BE0000961	antagonist	investigational	DB05855	Rivanicline	unknown	
+BE0000985		approved, investigational	DB03904	Urea	unknown	P35222
+BE0000918	antagonist	investigational, nutraceutical	DB01404	Ginseng	unknown	P05231
+BE0000918		investigational	DB05017	YSIL6	unknown	P05231
+BE0000918		investigational	DB05470	VX-702	unknown	P05231
+BE0000918		investigational	DB05744	CRx-139	unknown	P05231
+BE0000918		investigational	DB05767	Andrographolide	unknown	P05231
+BE0000918		approved, investigational	DB11967	Binimetinib	unknown	P05231
+BE0000918		investigational	DB05513	Atiprimod	unknown	P05231
+BE0000918	antagonistantibody	approved, investigational	DB09036	Siltuximab	yes	P05231
+BE0000918		investigational	DB12140	Dilmapimod	unknown	P05231
+BE0000918	inhibitor	experimental	DB09221	Polaprezinc	unknown	P05231
+BE0000918	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	P05231
+BE0000918	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	P05231
+BE0000918	antagonist	investigational	DB13127	Olokizumab	yes	P05231
+BE0001051	modulator	approved, investigational	DB01017	Minocycline	unknown	
+BE0001051		investigational	DB05412	Talmapimod	unknown	
+BE0001051		investigational	DB05442	Etiprednol dicloacetate	unknown	
+BE0001051		investigational	DB05133	VP025	unknown	
+BE0001051		investigational	DB05470	VX-702	unknown	
+BE0001051		investigational	DB05767	Andrographolide	unknown	
+BE0001051		investigational	DB05507	VX-765	unknown	
+BE0001051		investigational	DB12119	Gevokizumab	unknown	
+BE0001051		approved, investigational	DB11967	Binimetinib	unknown	
+BE0001051	binder	approved, investigational	DB06168	Canakinumab	yes	
+BE0001051	antagonist	approved, investigational	DB05260	Gallium nitrate	yes	
+BE0001051	binder	approved, investigational	DB06372	Rilonacept	unknown	
+BE0001051		investigational	DB12140	Dilmapimod	unknown	
+BE0001051	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	
+BE0001051	inhibitorinducer	approved	DB00843	Donepezil	unknown	
+BE0000961		investigational	DB05434	ABT-510	unknown	P10145
+BE0000961		investigational	DB05484	MDX-018	unknown	P10145
+BE0000961	antagonist	investigational	DB05855	Rivanicline	unknown	P10145
+BE0001047	inhibitor	experimental	DB01055	Mimosine	yes	
+BE0001047	inhibitor	approved	DB01406	Danazol	unknown	
+BE0001047		approved, investigational, nutraceutical	DB09301	Chondroitin sulfate	unknown	
+BE0001051	modulator	approved, investigational	DB01017	Minocycline	unknown	P01584
+BE0001051		investigational	DB05412	Talmapimod	unknown	P01584
+BE0001051		investigational	DB05442	Etiprednol dicloacetate	unknown	P01584
+BE0001051		investigational	DB05133	VP025	unknown	P01584
+BE0001051		investigational	DB05470	VX-702	unknown	P01584
+BE0001051		investigational	DB05767	Andrographolide	unknown	P01584
+BE0001051		investigational	DB05507	VX-765	unknown	P01584
+BE0001051		investigational	DB12119	Gevokizumab	unknown	P01584
+BE0001051		approved, investigational	DB11967	Binimetinib	unknown	P01584
+BE0001051	binder	approved, investigational	DB06168	Canakinumab	yes	P01584
+BE0001051	antagonist	approved, investigational	DB05260	Gallium nitrate	yes	P01584
+BE0001051	binder	approved, investigational	DB06372	Rilonacept	unknown	P01584
+BE0001051		investigational	DB12140	Dilmapimod	unknown	P01584
+BE0001051	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	P01584
+BE0001051	inhibitorinducer	approved	DB00843	Donepezil	unknown	P01584
+BE0009900	substrate	approved, investigational	DB14533	Zinc chloride	unknown	
+BE0009900	substrate	approved, experimental	DB14548	Zinc sulfate, unspecified form	unknown	
+BE0009903	substrate	approved, investigational	DB14533	Zinc chloride	unknown	
+BE0009903	substrate	approved, experimental	DB14548	Zinc sulfate, unspecified form	unknown	
+BE0001047	inhibitor	experimental	DB01055	Mimosine	yes	P13500
+BE0001047	inhibitor	approved	DB01406	Danazol	unknown	P13500
+BE0001047		approved, investigational, nutraceutical	DB09301	Chondroitin sulfate	unknown	P13500
+BE0009900	substrate	approved, investigational	DB14533	Zinc chloride	unknown	Q96H72
+BE0009900	substrate	approved, experimental	DB14548	Zinc sulfate, unspecified form	unknown	Q96H72
+BE0005076		investigational	DB12695	Phenethyl Isothiocyanate	unknown	
+BE0009903	substrate	approved, investigational	DB14533	Zinc chloride	unknown	Q15043
+BE0009903	substrate	approved, experimental	DB14548	Zinc sulfate, unspecified form	unknown	Q15043
+BE0004145		experimental	DB04716	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	unknown	
+BE0004145	inhibitor	approved	DB08877	Ruxolitinib	yes	
+BE0004145	inhibitor	approved, investigational	DB08895	Tofacitinib	yes	
+BE0004145		experimental	DB02375	Myricetin	unknown	
+BE0004145	inhibitor	approved, investigational	DB11817	Baricitinib	yes	
+BE0004145	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0004145	inhibitor	approved, investigational	DB12500	Fedratinib	no	
+BE0004145	inhibitor	approved, investigational	DB15091	Upadacitinib	yes	
+BE0004145	inhibitor	approved, investigational	DB15822	Pralsetinib	unknown	
+BE0004145	inhibitor	approved, investigational	DB14845	Filgotinib	yes	
+BE0004145	inhibitor	approved, investigational	DB14973	Abrocitinib	yes	
+BE0004145	inhibitor	experimental, investigational	DB16756	Ivarmacitinib	yes	
+BE0005076		investigational	DB12695	Phenethyl Isothiocyanate	unknown	P62736
+BE0002408		investigational	DB05243	XL019	unknown	
+BE0002408		experimental	DB04716	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	unknown	
+BE0002408		experimental	DB07161	5-phenyl-1H-indazol-3-amine	unknown	
+BE0002408		experimental	DB07162	4-(3-amino-1H-indazol-5-yl)-N-tert-butylbenzenesulfonamide	unknown	
+BE0002408		experimental	DB08067	4-[(2-{4-[(CYCLOPROPYLCARBAMOYL)AMINO]-1H-PYRAZOL-3-YL}-1H-BENZIMIDAZOL-6-YL)METHYL]MORPHOLIN-4-IUM	unknown	
+BE0002408	inhibitor	approved	DB08877	Ruxolitinib	yes	
+BE0002408	antagonistinhibitor	approved, investigational	DB08895	Tofacitinib	yes	
+BE0002408	inhibitor	approved, investigational	DB11817	Baricitinib	yes	
+BE0002408	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0002408	inhibitor	approved, investigational	DB12500	Fedratinib	yes	
+BE0002408	inhibitor	approved, investigational	DB11986	Entrectinib	unknown	
+BE0002408	inhibitor	approved, investigational	DB15035	Zanubrutinib	unknown	
+BE0002408	inhibitor	approved, investigational	DB15822	Pralsetinib	unknown	
+BE0002408	inhibitor	approved, investigational	DB14973	Abrocitinib	unknown	
+BE0002408	inhibitor	approved, investigational	DB11697	Pacritinib	yes	
+BE0004145		experimental	DB04716	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	unknown	P23458
+BE0004145	inhibitor	approved	DB08877	Ruxolitinib	yes	P23458
+BE0004145	inhibitor	approved, investigational	DB08895	Tofacitinib	yes	P23458
+BE0004145		experimental	DB02375	Myricetin	unknown	P23458
+BE0004145	inhibitor	approved, investigational	DB11817	Baricitinib	yes	P23458
+BE0004145	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P23458
+BE0004145	inhibitor	approved, investigational	DB12500	Fedratinib	no	P23458
+BE0004145	inhibitor	approved, investigational	DB15091	Upadacitinib	yes	P23458
+BE0004145	inhibitor	approved, investigational	DB15822	Pralsetinib	unknown	P23458
+BE0004145	inhibitor	approved, investigational	DB14845	Filgotinib	yes	P23458
+BE0004145	inhibitor	approved, investigational	DB14973	Abrocitinib	yes	P23458
+BE0004145	inhibitor	experimental, investigational	DB16756	Ivarmacitinib	yes	P23458
+BE0003493		investigational	DB06321	R-348	unknown	
+BE0003493		experimental	DB04716	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	unknown	
+BE0003493	inhibitor	approved, investigational	DB08895	Tofacitinib	yes	
+BE0003493	inhibitor	approved, investigational	DB11817	Baricitinib	yes	
+BE0003493	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0003493	inhibitor	approved, investigational	DB15035	Zanubrutinib	unknown	
+BE0003493	inhibitor	approved	DB08877	Ruxolitinib	yes	
+BE0003493	inhibitor	approved, investigational	DB14973	Abrocitinib	unknown	
+BE0002408		investigational	DB05243	XL019	unknown	O60674
+BE0002408		experimental	DB04716	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	unknown	O60674
+BE0002408		experimental	DB07161	5-phenyl-1H-indazol-3-amine	unknown	O60674
+BE0002408		experimental	DB07162	4-(3-amino-1H-indazol-5-yl)-N-tert-butylbenzenesulfonamide	unknown	O60674
+BE0002408		experimental	DB08067	4-[(2-{4-[(CYCLOPROPYLCARBAMOYL)AMINO]-1H-PYRAZOL-3-YL}-1H-BENZIMIDAZOL-6-YL)METHYL]MORPHOLIN-4-IUM	unknown	O60674
+BE0002408	inhibitor	approved	DB08877	Ruxolitinib	yes	O60674
+BE0002408	antagonistinhibitor	approved, investigational	DB08895	Tofacitinib	yes	O60674
+BE0002408	inhibitor	approved, investigational	DB11817	Baricitinib	yes	O60674
+BE0002408	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	O60674
+BE0002408	inhibitor	approved, investigational	DB12500	Fedratinib	yes	O60674
+BE0002408	inhibitor	approved, investigational	DB11986	Entrectinib	unknown	O60674
+BE0002408	inhibitor	approved, investigational	DB15035	Zanubrutinib	unknown	O60674
+BE0002408	inhibitor	approved, investigational	DB15822	Pralsetinib	unknown	O60674
+BE0002408	inhibitor	approved, investigational	DB14973	Abrocitinib	unknown	O60674
+BE0002408	inhibitor	approved, investigational	DB11697	Pacritinib	yes	O60674
+BE0000147	antagonist	approved, investigational	DB00398	Sorafenib	yes	
+BE0000147	inhibitor	approved, investigational	DB01268	Sunitinib	yes	
+BE0000147		investigational	DB12874	Quizartinib	unknown	
+BE0000147		investigational	DB12742	Amuvatinib	unknown	
+BE0000147		investigational	DB05014	XL999	unknown	
+BE0000147		investigational	DB05465	Tandutinib	unknown	
+BE0000147		investigational	DB06080	Linifanib	unknown	
+BE0000147		investigational	DB06469	Lestaurtinib	unknown	
+BE0000147	antagonistinhibitor	approved, investigational	DB06595	Midostaurin	yes	
+BE0000147	inhibitor	approved, investigational	DB08901	Ponatinib	unknown	
+BE0000147	inhibitor	approved	DB09079	Nintedanib	unknown	
+BE0000147	inhibitor	approved, investigational	DB12267	Brigatinib	unknown	
+BE0000147	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0000147	inhibitor	approved, investigational	DB12141	Gilteritinib	yes	
+BE0000147	inhibitor	approved, investigational	DB12978	Pexidartinib	unknown	
+BE0000147	inhibitor	approved, investigational	DB12500	Fedratinib	yes	
+BE0000147	inhibitor	approved, investigational	DB15822	Pralsetinib	unknown	
+BE0000147	inhibitor	approved, investigational	DB11800	Tivozanib	unknown	
+BE0000147	inhibitor	approved, investigational	DB11697	Pacritinib	yes	
+BE0003493		investigational	DB06321	R-348	unknown	P52333
+BE0003493		experimental	DB04716	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	unknown	P52333
+BE0003493	inhibitor	approved, investigational	DB08895	Tofacitinib	yes	P52333
+BE0003493	inhibitor	approved, investigational	DB11817	Baricitinib	yes	P52333
+BE0003493	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P52333
+BE0003493	inhibitor	approved, investigational	DB15035	Zanubrutinib	unknown	P52333
+BE0003493	inhibitor	approved	DB08877	Ruxolitinib	yes	P52333
+BE0003493	inhibitor	approved, investigational	DB14973	Abrocitinib	unknown	P52333
+BE0000147	antagonist	approved, investigational	DB00398	Sorafenib	yes	P36888
+BE0000147	inhibitor	approved, investigational	DB01268	Sunitinib	yes	P36888
+BE0000147		investigational	DB12874	Quizartinib	unknown	P36888
+BE0000147		investigational	DB12742	Amuvatinib	unknown	P36888
+BE0000147		investigational	DB05014	XL999	unknown	P36888
+BE0000147		investigational	DB05465	Tandutinib	unknown	P36888
+BE0000147		investigational	DB06080	Linifanib	unknown	P36888
+BE0000147		investigational	DB06469	Lestaurtinib	unknown	P36888
+BE0000147	antagonistinhibitor	approved, investigational	DB06595	Midostaurin	yes	P36888
+BE0000147	inhibitor	approved, investigational	DB08901	Ponatinib	unknown	P36888
+BE0000147	inhibitor	approved	DB09079	Nintedanib	unknown	P36888
+BE0000147	inhibitor	approved, investigational	DB12267	Brigatinib	unknown	P36888
+BE0000147	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P36888
+BE0000147	inhibitor	approved, investigational	DB12141	Gilteritinib	yes	P36888
+BE0000147	inhibitor	approved, investigational	DB12978	Pexidartinib	unknown	P36888
+BE0000147	inhibitor	approved, investigational	DB12500	Fedratinib	yes	P36888
+BE0000147	inhibitor	approved, investigational	DB15822	Pralsetinib	unknown	P36888
+BE0000147	inhibitor	approved, investigational	DB11800	Tivozanib	unknown	P36888
+BE0000147	inhibitor	approved, investigational	DB11697	Pacritinib	yes	P36888
+BE0000264		investigational, nutraceutical	DB00171	ATP	unknown	
+BE0000264		experimental	DB08597	Dorsomorphin	unknown	
+BE0000264	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0009272	ligand	approved, investigational	DB11639	Dibotermin alfa	yes	
+BE0000264		investigational, nutraceutical	DB00171	ATP	unknown	Q04771
+BE0000264		experimental	DB08597	Dorsomorphin	unknown	Q04771
+BE0000264	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q04771
+BE0009272	ligand	approved, investigational	DB11639	Dibotermin alfa	yes	P36894
+BE0009415	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0009324	ligand	approved, investigational	DB11639	Dibotermin alfa	yes	
+BE0009324	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0009415	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	O00238
+BE0002442		investigational	DB04933	Eritoran	unknown	
+BE0002442		investigational	DB05475	Golotimod	unknown	
+BE0002442		investigational	DB06447	E5531	unknown	
+BE0002442		approved, experimental	DB03017	Lauric acid	unknown	
+BE0002442		experimental	DB02767	(R)-3-hydroxytetradecanoic acid	unknown	
+BE0002442		experimental	DB08231	Myristic acid	unknown	
+BE0002442	inhibitor	approved, vet_approved	DB01183	Naloxone	unknown	
+BE0002442	ligand	approved, experimental	DB13615	Mifamurtide	yes	
+BE0002442	activator	approved	DB11193	Papain	unknown	
+BE0002442	inhibitor	approved	DB00924	Cyclobenzaprine	unknown	
+BE0009324	ligand	approved, investigational	DB11639	Dibotermin alfa	yes	Q13873
+BE0009324	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q13873
+BE0008694	ligand	approved, investigational	DB11093	Calcium citrate	no	
+BE0008694	ligand	approved	DB11348	Calcium Phosphate	no	
+BE0008694		approved	DB14481	Calcium phosphate dihydrate	no	
+BE0002442		investigational	DB04933	Eritoran	unknown	O00206
+BE0002442		investigational	DB05475	Golotimod	unknown	O00206
+BE0002442		investigational	DB06447	E5531	unknown	O00206
+BE0002442		approved, experimental	DB03017	Lauric acid	unknown	O00206
+BE0002442		experimental	DB02767	(R)-3-hydroxytetradecanoic acid	unknown	O00206
+BE0002442		experimental	DB08231	Myristic acid	unknown	O00206
+BE0002442	inhibitor	approved, vet_approved	DB01183	Naloxone	unknown	O00206
+BE0002442	ligand	approved, experimental	DB13615	Mifamurtide	yes	O00206
+BE0002442	activator	approved	DB11193	Papain	unknown	O00206
+BE0002442	inhibitor	approved	DB00924	Cyclobenzaprine	unknown	O00206
+BE0002204		approved	DB03147	Flavin adenine dinucleotide	unknown	
+BE0002204		experimental	DB03328	Dioxo(sulfanyl)molybdenum	unknown	
+BE0002204	inhibitor	approved	DB00437	Allopurinol	yes	
+BE0002204		investigational	DB05262	Oxypurinol	unknown	
+BE0002204	substrate	approved, nutraceutical	DB00157	NADH	unknown	
+BE0002204	inhibitor	experimental, nutraceutical	DB00127	Spermine	unknown	
+BE0002204	substrate	approved, nutraceutical	DB00170	Menadione	unknown	
+BE0002204	substrate	approved, investigational, vet_approved	DB00336	Nitrofural	unknown	
+BE0002204	substrate	approved, investigational	DB00339	Pyrazinamide	unknown	
+BE0002204	inhibitor	approved, investigational	DB00746	Deferoxamine	unknown	
+BE0002204	modulator	approved, investigational	DB00831	Trifluoperazine	unknown	
+BE0002204	inhibitor	approved, investigational	DB01136	Carvedilol	unknown	
+BE0002204	substrate	approved, investigational	DB01168	Procarbazine	unknown	
+BE0002204	substrate	approved	DB01033	Mercaptopurine	unknown	
+BE0002204	substrate	approved	DB00993	Azathioprine	unknown	
+BE0002204	inhibitor	approved	DB00437	Allopurinol	unknown	
+BE0002204		experimental	DB01685	Topiroxostat	unknown	
+BE0002204		experimental	DB03841	Niraxostat	unknown	
+BE0002204		approved, investigational	DB00583	Levocarnitine	unknown	
+BE0002204	inhibitor	investigational	DB03516	Eniluracil	unknown	
+BE0002204	inducer	approved	DB00958	Carboplatin	unknown	
+BE0002204	inhibitor	approved, experimental	DB00856	Chlorphenesin	unknown	
+BE0002204	substrateinducer	experimental, investigational	DB04335	Inosine	unknown	
+BE0002204	inducer	approved	DB00515	Cisplatin	unknown	
+BE0002204	substrate	investigational	DB06478	Porfiromycin	unknown	
+BE0002204	inducer	approved	DB00041	Aldesleukin	unknown	
+BE0002204	substrate	approved, investigational	DB00997	Doxorubicin	unknown	
+BE0002204	substrate	approved	DB01020	Isosorbide mononitrate	no	
+BE0002204	substrate	approved, investigational	DB12466	Favipiravir	no	
+BE0002204	substrate	approved, investigational	DB00640	Adenosine	unknown	
+BE0002204	inhibitor	approved	DB04854	Febuxostat	yes	
+BE0005551		approved, investigational	DB08908	Dimethyl fumarate	unknown	
+BE0005551	inhibitor	approved, investigational	DB01296	Glucosamine	unknown	
+BE0008694	ligand	approved, investigational	DB11093	Calcium citrate	no	P35556
+BE0008694	ligand	approved	DB11348	Calcium Phosphate	no	P35556
+BE0008694		approved	DB14481	Calcium phosphate dihydrate	no	P35556
+BE0002204		approved	DB03147	Flavin adenine dinucleotide	unknown	P47989
+BE0002204		experimental	DB03328	Dioxo(sulfanyl)molybdenum	unknown	P47989
+BE0002204	inhibitor	approved	DB00437	Allopurinol	yes	P47989
+BE0002204		investigational	DB05262	Oxypurinol	unknown	P47989
+BE0002204	substrate	approved, nutraceutical	DB00157	NADH	unknown	P47989
+BE0002204	inhibitor	experimental, nutraceutical	DB00127	Spermine	unknown	P47989
+BE0002204	substrate	approved, nutraceutical	DB00170	Menadione	unknown	P47989
+BE0002204	substrate	approved, investigational, vet_approved	DB00336	Nitrofural	unknown	P47989
+BE0002204	substrate	approved, investigational	DB00339	Pyrazinamide	unknown	P47989
+BE0002204	inhibitor	approved, investigational	DB00746	Deferoxamine	unknown	P47989
+BE0002204	modulator	approved, investigational	DB00831	Trifluoperazine	unknown	P47989
+BE0002204	inhibitor	approved, investigational	DB01136	Carvedilol	unknown	P47989
+BE0002204	substrate	approved, investigational	DB01168	Procarbazine	unknown	P47989
+BE0002204	substrate	approved	DB01033	Mercaptopurine	unknown	P47989
+BE0002204	substrate	approved	DB00993	Azathioprine	unknown	P47989
+BE0002204	inhibitor	approved	DB00437	Allopurinol	unknown	P47989
+BE0002204		experimental	DB01685	Topiroxostat	unknown	P47989
+BE0002204		experimental	DB03841	Niraxostat	unknown	P47989
+BE0002204		approved, investigational	DB00583	Levocarnitine	unknown	P47989
+BE0002204	inhibitor	investigational	DB03516	Eniluracil	unknown	P47989
+BE0002204	inducer	approved	DB00958	Carboplatin	unknown	P47989
+BE0002204	inhibitor	approved, experimental	DB00856	Chlorphenesin	unknown	P47989
+BE0002204	substrateinducer	experimental, investigational	DB04335	Inosine	unknown	P47989
+BE0002204	inducer	approved	DB00515	Cisplatin	unknown	P47989
+BE0002204	substrate	investigational	DB06478	Porfiromycin	unknown	P47989
+BE0002204	inducer	approved	DB00041	Aldesleukin	unknown	P47989
+BE0002204	substrate	approved, investigational	DB00997	Doxorubicin	unknown	P47989
+BE0002204	substrate	approved	DB01020	Isosorbide mononitrate	no	P47989
+BE0002204	substrate	approved, investigational	DB12466	Favipiravir	no	P47989
+BE0002204	substrate	approved, investigational	DB00640	Adenosine	unknown	P47989
+BE0002204	inhibitor	approved	DB04854	Febuxostat	yes	P47989
+BE0000984	inhibitor	approved, investigational	DB00070	Hyaluronidase (ovine)	unknown	
+BE0000984	inhibitor	approved, investigational	DB06205	Hyaluronidase (human recombinant)	unknown	
+BE0000984	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	
+BE0000984	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	
+BE0000984	inducer	approved	DB01162	Terazosin	yes	
+BE0000984	inhibitor	approved	DB14740	Hyaluronidase	unknown	
+BE0004506		experimental	DB03316	1,4-Dioxane	unknown	
+BE0005551		approved, investigational	DB08908	Dimethyl fumarate	unknown	Q04206
+BE0005551	inhibitor	approved, investigational	DB01296	Glucosamine	unknown	Q04206
+BE0005551	inhibitor	experimental, investigational	DB14059	SC-236	yes	Q04206
+BE0003481		investigational	DB05697	Trabedersen	unknown	
+BE0000984	inhibitor	approved, investigational	DB00070	Hyaluronidase (ovine)	unknown	P01137
+BE0000984	inhibitor	approved, investigational	DB06205	Hyaluronidase (human recombinant)	unknown	P01137
+BE0000984	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	P01137
+BE0000984	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	P01137
+BE0000984	inducer	approved	DB01162	Terazosin	yes	P01137
+BE0000984	inhibitor	approved	DB14740	Hyaluronidase	unknown	P01137
+BE0004506		experimental	DB03316	1,4-Dioxane	unknown	P10600
+BE0003481		investigational	DB05697	Trabedersen	unknown	P61812
+BE0009000		nutraceutical	DB01373	Calcium	unknown	
+BE0009865	inhibitor	experimental	DB15624	Halicin	unknown	
+BE0009000		nutraceutical	DB01373	Calcium	unknown	P12644
+BE0001097		experimental	DB01782	Pyrazolanthrone	unknown	
+BE0001097		experimental	DB02388	Cyclohexyl-{4-[5-(3,4-Dichlorophenyl)-2-Piperidin-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	unknown	
+BE0001097		experimental	DB03084	Cyclopropyl-{4-[5-(3,4-Dichlorophenyl)-2-[(1-Methyl)-Piperidin]-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	unknown	
+BE0001097		experimental	DB03623	9-(4-Hydroxyphenyl)-2,7-Phenanthroline	unknown	
+BE0001097		experimental	DB04395	Phosphoaminophosphonic Acid-Adenylate Ester	unknown	
+BE0001097		experimental	DB06933	N-(tert-butyl)-4-[5-(pyridin-2-ylamino)quinolin-3-yl]benzenesulfonamide	unknown	
+BE0001097		experimental	DB07010	N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE	unknown	
+BE0001097		experimental	DB07217	N-(3-cyano-4,5,6,7-tetrahydro-1-benzothien-2-yl)-2-fluorobenzamide	unknown	
+BE0001097		experimental	DB08005	4-{[5-chloro-4-(1H-indol-3-yl)pyrimidin-2-yl]amino}-N-ethylpiperidine-1-carboxamide	unknown	
+BE0001097		experimental	DB08010	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-[(E)-2-phenylethenyl]-1H-indole-2,3-dione 3-oxime	unknown	
+BE0001097		experimental	DB08011	(3E)-5-fluoro-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-1H-indole-2,3-dione 3-oxime	unknown	
+BE0001097		experimental	DB08015	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-phenyl-1H-indole-2,3-dione 3-oxime	unknown	
+BE0001097		experimental	DB08021	5-bromo-N-(3-chloro-2-(4-(prop-2-ynyl)piperazin-1-yl)phenyl)furan-2-carboxamide	unknown	
+BE0001097		experimental	DB08023	N-cyclohexyl-4-imidazo[1,2-a]pyridin-3-yl-N-methylpyrimidin-2-amine	unknown	
+BE0001097		experimental	DB08025	N-{2'-[(4-FLUOROPHENYL)AMINO]-4,4'-BIPYRIDIN-2-YL}-4-METHOXYCYCLOHEXANECARBOXAMIDE	unknown	
+BE0001097		experimental	DB08026	2-{4-[(4-imidazo[1,2-a]pyridin-3-ylpyrimidin-2-yl)amino]piperidin-1-yl}-N-methylacetamide	unknown	
+BE0001097		experimental	DB08555	1-(3-bromophenyl)-7-chloro-6-methoxy-3,4-dihydroisoquinoline	unknown	
+BE0001097	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0009865		experimental	DB01782	Pyrazolanthrone	unknown	P45983
+BE0009865		experimental	DB07218	6-CHLORO-9-HYDROXY-1,3-DIMETHYL-1,9-DIHYDRO-4H-PYRAZOLO[3,4-B]QUINOLIN-4-ONE	unknown	P45983
+BE0009865		experimental	DB07268	2-({2-[(3-HYDROXYPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)BENZAMIDE	unknown	P45983
+BE0009865		experimental	DB07272	N-(4-AMINO-5-CYANO-6-ETHOXYPYRIDIN-2-YL)-2-(4-BROMO-2,5-DIMETHOXYPHENYL)ACETAMIDE	unknown	P45983
+BE0009865		experimental	DB07276	5-CYANO-N-(2,5-DIMETHOXYBENZYL)-6-ETHOXYPYRIDINE-2-CARBOXAMIDE	unknown	P45983
+BE0009865		experimental	DB07845	2-fluoro-6-{[2-({2-methoxy-4-[(methylsulfonyl)methyl]phenyl}amino)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]amino}benzamide	unknown	P45983
+BE0009865	modulator	approved	DB00675	Tamoxifen	unknown	P45983
+BE0009865	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P45983
+BE0009865	inhibitor	experimental	DB15624	Halicin	unknown	P45983
+BE0009865		experimental	DB01782	Pyrazolanthrone	unknown	P53779
+BE0009865		experimental	DB02388	Cyclohexyl-{4-[5-(3,4-Dichlorophenyl)-2-Piperidin-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	unknown	P53779
+BE0009865		experimental	DB03084	Cyclopropyl-{4-[5-(3,4-Dichlorophenyl)-2-[(1-Methyl)-Piperidin]-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	unknown	P53779
+BE0009865		experimental	DB03623	9-(4-Hydroxyphenyl)-2,7-Phenanthroline	unknown	P53779
+BE0009865		experimental	DB04395	Phosphoaminophosphonic Acid-Adenylate Ester	unknown	P53779
+BE0009865		experimental	DB06933	N-(tert-butyl)-4-[5-(pyridin-2-ylamino)quinolin-3-yl]benzenesulfonamide	unknown	P53779
+BE0009865		experimental	DB07010	N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE	unknown	P53779
+BE0009865		experimental	DB07217	N-(3-cyano-4,5,6,7-tetrahydro-1-benzothien-2-yl)-2-fluorobenzamide	unknown	P53779
+BE0009865		experimental	DB08005	4-{[5-chloro-4-(1H-indol-3-yl)pyrimidin-2-yl]amino}-N-ethylpiperidine-1-carboxamide	unknown	P53779
+BE0009865		experimental	DB08010	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-[(E)-2-phenylethenyl]-1H-indole-2,3-dione 3-oxime	unknown	P53779
+BE0009865		experimental	DB08011	(3E)-5-fluoro-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-1H-indole-2,3-dione 3-oxime	unknown	P53779
+BE0009865		experimental	DB08015	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-phenyl-1H-indole-2,3-dione 3-oxime	unknown	P53779
+BE0009865		experimental	DB08021	5-bromo-N-(3-chloro-2-(4-(prop-2-ynyl)piperazin-1-yl)phenyl)furan-2-carboxamide	unknown	P53779
+BE0009865		experimental	DB08023	N-cyclohexyl-4-imidazo[1,2-a]pyridin-3-yl-N-methylpyrimidin-2-amine	unknown	P53779
+BE0009865		experimental	DB08025	N-{2'-[(4-FLUOROPHENYL)AMINO]-4,4'-BIPYRIDIN-2-YL}-4-METHOXYCYCLOHEXANECARBOXAMIDE	unknown	P53779
+BE0009865		experimental	DB08026	2-{4-[(4-imidazo[1,2-a]pyridin-3-ylpyrimidin-2-yl)amino]piperidin-1-yl}-N-methylacetamide	unknown	P53779
+BE0009865		experimental	DB08555	1-(3-bromophenyl)-7-chloro-6-methoxy-3,4-dihydroisoquinoline	unknown	P53779
+BE0009865	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P53779
+BE0009865	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P53779
+BE0009865	inhibitor	experimental	DB15624	Halicin	unknown	P53779
+BE0009865		experimental	DB07020	N-{3-[5-(1H-1,2,4-triazol-3-yl)-1H-indazol-3-yl]phenyl}furan-2-carboxamide	unknown	P45984
+BE0009865	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P45984
+BE0009865	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P45984
+BE0009865	inhibitor	experimental	DB15624	Halicin	unknown	P45984
+BE0003790		experimental	DB01782	Pyrazolanthrone	unknown	
+BE0003790		experimental	DB07218	6-CHLORO-9-HYDROXY-1,3-DIMETHYL-1,9-DIHYDRO-4H-PYRAZOLO[3,4-B]QUINOLIN-4-ONE	unknown	
+BE0003790		experimental	DB07268	2-({2-[(3-HYDROXYPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)BENZAMIDE	unknown	
+BE0003790		experimental	DB07272	N-(4-AMINO-5-CYANO-6-ETHOXYPYRIDIN-2-YL)-2-(4-BROMO-2,5-DIMETHOXYPHENYL)ACETAMIDE	unknown	
+BE0003790		experimental	DB07276	5-CYANO-N-(2,5-DIMETHOXYBENZYL)-6-ETHOXYPYRIDINE-2-CARBOXAMIDE	unknown	
+BE0003790		experimental	DB07845	2-fluoro-6-{[2-({2-methoxy-4-[(methylsulfonyl)methyl]phenyl}amino)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]amino}benzamide	unknown	
+BE0003790	modulator	approved	DB00675	Tamoxifen	unknown	
+BE0003772		experimental	DB07020	N-{3-[5-(1H-1,2,4-triazol-3-yl)-1H-indazol-3-yl]phenyl}furan-2-carboxamide	unknown	
+BE0003772	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0003790		experimental	DB01782	Pyrazolanthrone	unknown	P45983
+BE0003790		experimental	DB07218	6-CHLORO-9-HYDROXY-1,3-DIMETHYL-1,9-DIHYDRO-4H-PYRAZOLO[3,4-B]QUINOLIN-4-ONE	unknown	P45983
+BE0003790		experimental	DB07268	2-({2-[(3-HYDROXYPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)BENZAMIDE	unknown	P45983
+BE0003790		experimental	DB07272	N-(4-AMINO-5-CYANO-6-ETHOXYPYRIDIN-2-YL)-2-(4-BROMO-2,5-DIMETHOXYPHENYL)ACETAMIDE	unknown	P45983
+BE0003790		experimental	DB07276	5-CYANO-N-(2,5-DIMETHOXYBENZYL)-6-ETHOXYPYRIDINE-2-CARBOXAMIDE	unknown	P45983
+BE0003790		experimental	DB07845	2-fluoro-6-{[2-({2-methoxy-4-[(methylsulfonyl)methyl]phenyl}amino)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]amino}benzamide	unknown	P45983
+BE0003790	modulator	approved	DB00675	Tamoxifen	unknown	P45983
+BE0003790	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P45983
+BE0003790	inhibitor	experimental	DB15624	Halicin	unknown	P45983
+BE0001097		experimental	DB01782	Pyrazolanthrone	unknown	P53779
+BE0001097		experimental	DB02388	Cyclohexyl-{4-[5-(3,4-Dichlorophenyl)-2-Piperidin-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	unknown	P53779
+BE0001097		experimental	DB03084	Cyclopropyl-{4-[5-(3,4-Dichlorophenyl)-2-[(1-Methyl)-Piperidin]-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	unknown	P53779
+BE0001097		experimental	DB03623	9-(4-Hydroxyphenyl)-2,7-Phenanthroline	unknown	P53779
+BE0001097		experimental	DB04395	Phosphoaminophosphonic Acid-Adenylate Ester	unknown	P53779
+BE0001097		experimental	DB06933	N-(tert-butyl)-4-[5-(pyridin-2-ylamino)quinolin-3-yl]benzenesulfonamide	unknown	P53779
+BE0001097		experimental	DB07010	N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE	unknown	P53779
+BE0001097		experimental	DB07217	N-(3-cyano-4,5,6,7-tetrahydro-1-benzothien-2-yl)-2-fluorobenzamide	unknown	P53779
+BE0001097		experimental	DB08005	4-{[5-chloro-4-(1H-indol-3-yl)pyrimidin-2-yl]amino}-N-ethylpiperidine-1-carboxamide	unknown	P53779
+BE0001097		experimental	DB08010	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-[(E)-2-phenylethenyl]-1H-indole-2,3-dione 3-oxime	unknown	P53779
+BE0001097		experimental	DB08011	(3E)-5-fluoro-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-1H-indole-2,3-dione 3-oxime	unknown	P53779
+BE0001097		experimental	DB08015	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-phenyl-1H-indole-2,3-dione 3-oxime	unknown	P53779
+BE0001097		experimental	DB08021	5-bromo-N-(3-chloro-2-(4-(prop-2-ynyl)piperazin-1-yl)phenyl)furan-2-carboxamide	unknown	P53779
+BE0001097		experimental	DB08023	N-cyclohexyl-4-imidazo[1,2-a]pyridin-3-yl-N-methylpyrimidin-2-amine	unknown	P53779
+BE0001097		experimental	DB08025	N-{2'-[(4-FLUOROPHENYL)AMINO]-4,4'-BIPYRIDIN-2-YL}-4-METHOXYCYCLOHEXANECARBOXAMIDE	unknown	P53779
+BE0001097		experimental	DB08026	2-{4-[(4-imidazo[1,2-a]pyridin-3-ylpyrimidin-2-yl)amino]piperidin-1-yl}-N-methylacetamide	unknown	P53779
+BE0001097		experimental	DB08555	1-(3-bromophenyl)-7-chloro-6-methoxy-3,4-dihydroisoquinoline	unknown	P53779
+BE0001097	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P53779
+BE0001097	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P53779
+BE0001097	inhibitor	experimental	DB15624	Halicin	unknown	P53779
+BE0003722	inverse agonist	approved, investigational, withdrawn	DB00197	Troglitazone	no	
+BE0003722		experimental	DB06833	1-CYCLOHEXYL-N-{[1-(4-METHYLPHENYL)-1H-INDOL-3-YL]METHYL}METHANAMINE	unknown	
+BE0003722		experimental	DB06732	beta-Naphthoflavone	unknown	
+BE0003722		approved, investigational	DB00255	Diethylstilbestrol	unknown	
+BE0003722	agonist	approved, experimental	DB07776	Flavone	unknown	
+BE0003722	agonist	investigational	DB01645	Genistein	unknown	
+BE0003722	inhibitor	investigational	DB04468	Afimoxifene	unknown	
+BE0003772		experimental	DB07020	N-{3-[5-(1H-1,2,4-triazol-3-yl)-1H-indazol-3-yl]phenyl}furan-2-carboxamide	unknown	P45984
+BE0003772	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P45984
+BE0003772	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P45984
+BE0003772	inhibitor	experimental	DB15624	Halicin	unknown	P45984
+BE0002409		experimental	DB07821	(1R)-1,2,2-trimethylpropyl (R)-methylphosphinate	unknown	
+BE0002409		investigational	DB05119	Rilapladib	unknown	
+BE0003722	inverse agonist	approved, investigational, withdrawn	DB00197	Troglitazone	no	P11474
+BE0003722		experimental	DB06833	1-CYCLOHEXYL-N-{[1-(4-METHYLPHENYL)-1H-INDOL-3-YL]METHYL}METHANAMINE	unknown	P11474
+BE0003722		experimental	DB06732	beta-Naphthoflavone	unknown	P11474
+BE0003722		approved, investigational	DB00255	Diethylstilbestrol	unknown	P11474
+BE0003722	agonist	approved, experimental	DB07776	Flavone	unknown	P11474
+BE0003722	agonist	investigational	DB01645	Genistein	unknown	P11474
+BE0003722	inhibitor	investigational	DB04468	Afimoxifene	unknown	P11474
+BE0000854	inhibitor	approved, investigational	DB01261	Sitagliptin	yes	
+BE0000854		experimental	DB01884	2-Amino-3-Methyl-1-Pyrrolidin-1-Yl-Butan-1-One	unknown	
+BE0000854		experimental	DB02004	5-(Aminomethyl)-6-(2,4-Dichlorophenyl)-2-(3,5-Dimethoxyphenyl)Pyrimidin-4-Amine	unknown	
+BE0000854		experimental	DB04491	Diisopropylphosphono Group	unknown	
+BE0000854		experimental	DB03253	(2s)-Pyrrolidin-2-Ylmethylamine	unknown	
+BE0000854	inhibitor	approved, investigational	DB04876	Vildagliptin	yes	
+BE0000854		investigational	DB05001	PSN9301	unknown	
+BE0000854		investigational	DB11723	Dutogliptin	unknown	
+BE0000854		investigational	DB06127	Bisegliptin	unknown	
+BE0000854		investigational	DB06011	AMG-222	unknown	
+BE0000854	inhibitor	approved	DB06203	Alogliptin	yes	
+BE0000854	inhibitor	approved	DB06335	Saxagliptin	yes	
+BE0000854	inhibitor	approved	DB01076	Atorvastatin	unknown	
+BE0000854		experimental	DB04577	1-(1-phenylcyclopentyl)methylamine	unknown	
+BE0000854		experimental	DB04578	(S)-2-[(R)-3-amino-4-(2-fluorophenyl)butyryl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide	unknown	
+BE0000854		experimental	DB06880	(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-PROP-1-YN-1-YLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE	unknown	
+BE0000854		experimental	DB06939	N-(TRANS-4-{(1S,2S)-2-AMINO-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-1-METHYL-3-OXOPROPYL}CYCLOHEXYL)-N-METHYLACETAMIDE	unknown	
+BE0000854		experimental	DB06993	(2S,3S)-4-cyclopropyl-3-{(3R,5R)-3-[2-fluoro-4-(methylsulfonyl)phenyl]-1,2,4-oxadiazolidin-5-yl}-1-[(3S)-3-fluoropyrrolidin-1-yl]-1-oxobutan-2-amine	unknown	
+BE0000854		experimental	DB06994	(2S,3S)-3-{3-[2-chloro-4-(methylsulfonyl)phenyl]-1,2,4-oxadiazol-5-yl}-1-cyclopentylidene-4-cyclopropyl-1-fluorobutan-2-amine	unknown	
+BE0000854		experimental	DB07015	(3R,4R)-4-(pyrrolidin-1-ylcarbonyl)-1-(quinoxalin-2-ylcarbonyl)pyrrolidin-3-amine	unknown	
+BE0000854		experimental	DB07021	(7R,8R)-8-(2,4,5-trifluorophenyl)-6,7,8,9-tetrahydroimidazo[1,2-a:4,5-c']dipyridin-7-amine	unknown	
+BE0000854		experimental	DB07067	(2S,3S)-3-{3-[4-(METHYLSULFONYL)PHENYL]-1,2,4-OXADIAZOL-5-YL}-1-OXO-1-PYRROLIDIN-1-YLBUTAN-2-AMINE	unknown	
+BE0000854		experimental	DB07072	(1S,2R,5S)-5-[3-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[4,3-A]PYRAZIN-7(8H)-YL]-2-(2,4,5-TRIFLUOROPHENYL)CYCLOHEXANAMINE	unknown	
+BE0000854		experimental	DB07081	(2R)-4-[(8R)-8-METHYL-2-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[1,5-A]PYRAZIN-7(8H)-YL]-4-OXO-1-(2,4,5-TRIFLUOROPHENYL)BUTAN-2-AMINE	unknown	
+BE0000854		experimental	DB07092	(2S,3S)-3-AMINO-4-(3,3-DIFLUOROPYRROLIDIN-1-YL)-N,N-DIMETHYL-4-OXO-2-(TRANS-4-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-6-YLCYCLOHEXYL)BUTANAMIDE	unknown	
+BE0000854		experimental	DB07135	(2S,3S)-3-AMINO-4-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-N,N-DIMETHYL-4-OXO-2-(TRANS-4-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-5-YLCYCLOHEXYL)BUTANAMIDE	unknown	
+BE0000854		experimental	DB07154	(3R)-4-[(3R)-3-AMINO-4-(2,4,5-TRIFLUOROPHENYL)BUTANOYL]-3-METHYL-1,4-DIAZEPAN-2-ONE	unknown	
+BE0000854		experimental	DB07181	4'-[(1R)-1-amino-2-(2,5-difluorophenyl)ethyl]biphenyl-3-carboxamide	unknown	
+BE0000854		experimental	DB07193	(2R,3R)-7-(methylsulfonyl)-3-(2,4,5-trifluorophenyl)-1,2,3,4-tetrahydropyrido[1,2-a]benzimidazol-2-amine	unknown	
+BE0000854		experimental	DB07239	7-(aminomethyl)-6-(2-chlorophenyl)-1-methyl-1H-benzimidazole-5-carbonitrile	unknown	
+BE0000854		experimental	DB07271	4-[(3R)-3-Amino-4-(2,4,5-trifluorophenyl)butanoyl]-3-(2,2,2-trifluoroethyl)-1,4-diazepan-2-one	unknown	
+BE0000854		experimental	DB07328	METHYL 4-{[({[(2R,5S)-5-{[(2S)-2-(AMINOMETHYL)PYRROLIDIN-1-YL]CARBONYL}PYRROLIDIN-2-YL]METHYL}AMINO)CARBONYL]AMINO}BENZOATE	unknown	
+BE0000854		experimental	DB07356	(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-ETHYNYLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE	unknown	
+BE0000854		experimental	DB07412	1-biphenyl-2-ylmethanamine	unknown	
+BE0000854		experimental	DB07465	(1S,3S,5S)-2-{(2S)-2-amino-2-[(1R,3S,5R,7S)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile	unknown	
+BE0000854		experimental	DB07482	(2R)-N-[(2R)-2-(DIHYDROXYBORYL)-1-L-PROLYLPYRROLIDIN-2-YL]-N-[(5R)-5-(DIHYDROXYBORYL)-1-L-PROLYLPYRROLIDIN-2-YL]-L-PROLINAMIDE	unknown	
+BE0000854		experimental	DB07666	(3R,4S)-1-{6-[3-(METHYLSULFONYL)PHENYL]PYRIMIDIN-4-YL}-4-(2,4,5-TRIFLUOROPHENYL)PYRROLIDIN-3-AMINE	unknown	
+BE0000854		experimental	DB07779	N-({(2S)-1-[(3R)-3-AMINO-4-(2-FLUOROPHENYL)BUTANOYL]PYRROLIDIN-2-YL}METHYL)BENZAMIDE	unknown	
+BE0000854		experimental	DB07830	(4R,5R)-5-AMINO-1-[2-(1,3-BENZODIOXOL-5-YL)ETHYL]-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-2-ONE	unknown	
+BE0000854		experimental	DB07851	(3R,4S)-1-(3,4-DIMETHOXYPHENYL)-3-(3-METHYLPHENYL)PIPERIDIN-4-AMINE	unknown	
+BE0000854		experimental	DB08024	1-[2-(S)-AMINO-3-BIPHENYL-4-YL-PROPIONYL]-PYRROLIDINE-2-(S)-CARBONITRILE	unknown	
+BE0000854		experimental	DB08044	ABT-341	unknown	
+BE0000854		experimental	DB08051	(2R)-4-(2-BENZOYL-1,2-DIAZEPAN-1-YL)-4-OXO-1-(2,4,5-TRIFLUOROPHENYL)BUTAN-2-AMINE	unknown	
+BE0000854		experimental	DB08164	(3R,4R)-1-{6-[3-(METHYLSULFONYL)PHENYL]PYRIMIDIN-4-YL}-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-3-AMINE	unknown	
+BE0000854		investigational	DB08382	Gosogliptin	yes	
+BE0000854		experimental	DB03660	4-Iodo-L-phenylalanine	unknown	
+BE0000854		experimental	DB08429	N-({(2S)-1-[(3R)-3-amino-4-(3-chlorophenyl)butanoyl]pyrrolidin-2-yl}methyl)-3-(methylsulfonyl)benzamide	unknown	
+BE0000854		experimental	DB08445	(3R,4S)-1-[6-(6-METHOXYPYRIDIN-3-YL)PYRIMIDIN-4-YL]-4-(2,4,5-TRIFLUOROPHENYL)PYRROLIDIN-3-AMINE	unknown	
+BE0000854		experimental	DB08504	6-(4-{(1S,2S)-2-AMINO-1-[(DIMETHYLAMINO)CARBONYL]-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-3-OXOPROPYL}PHENYL)-1H-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-4-IUM	unknown	
+BE0000854		experimental	DB08530	7-BENZYL-1,3-DIMETHYL-8-PIPERAZIN-1-YL-3,7-DIHYDRO-PURINE-2,6-DIONE	unknown	
+BE0000854		experimental	DB08588	2-({2-[(3R)-3-AMINOPIPERIDIN-1-YL]-4-OXOQUINAZOLIN-3(4H)-YL}METHYL)BENZONITRILE	unknown	
+BE0000854		experimental	DB08672	4-[(3R)-3-{[2-(4-FLUOROPHENYL)-2-OXOETHYL]AMINO}BUTYL]BENZAMIDE	unknown	
+BE0000854		experimental	DB08743	2-({8-[(3R)-3-AMINOPIPERIDIN-1-YL]-1,3-DIMETHYL-2,6-DIOXO-1,2,3,6-TETRAHYDRO-7H-PURIN-7-YL}METHYL)BENZONITRILE	unknown	
+BE0000854	inhibitor	approved	DB08882	Linagliptin	yes	
+BE0000854	substrate	approved	DB06655	Liraglutide	unknown	
+BE0000854	substrate	approved, investigational	DB13928	Semaglutide	no	
+BE0000854	substrate	approved, investigational	DB01276	Exenatide	unknown	
+BE0002409		experimental	DB07821	(1R)-1,2,2-trimethylpropyl (R)-methylphosphinate	unknown	Q13093
+BE0002409		investigational	DB05119	Rilapladib	unknown	Q13093
+BE0002401		investigational	DB04983	Denufosol	unknown	
+BE0002401		investigational	DB05390	INS 316	unknown	
+BE0002401	antagonist	investigational	DB04786	Suramin	yes	
+BE0000854	inhibitor	approved, investigational	DB01261	Sitagliptin	yes	P27487
+BE0000854		experimental	DB01884	2-Amino-3-Methyl-1-Pyrrolidin-1-Yl-Butan-1-One	unknown	P27487
+BE0000854		experimental	DB02004	5-(Aminomethyl)-6-(2,4-Dichlorophenyl)-2-(3,5-Dimethoxyphenyl)Pyrimidin-4-Amine	unknown	P27487
+BE0000854		experimental	DB04491	Diisopropylphosphono Group	unknown	P27487
+BE0000854		experimental	DB03253	(2s)-Pyrrolidin-2-Ylmethylamine	unknown	P27487
+BE0000854	inhibitor	approved, investigational	DB04876	Vildagliptin	yes	P27487
+BE0000854		investigational	DB05001	PSN9301	unknown	P27487
+BE0000854		investigational	DB11723	Dutogliptin	unknown	P27487
+BE0000854		investigational	DB06127	Bisegliptin	unknown	P27487
+BE0000854		investigational	DB06011	AMG-222	unknown	P27487
+BE0000854	inhibitor	approved	DB06203	Alogliptin	yes	P27487
+BE0000854	inhibitor	approved	DB06335	Saxagliptin	yes	P27487
+BE0000854	inhibitor	approved	DB01076	Atorvastatin	unknown	P27487
+BE0000854		experimental	DB04577	1-(1-phenylcyclopentyl)methylamine	unknown	P27487
+BE0000854		experimental	DB04578	(S)-2-[(R)-3-amino-4-(2-fluorophenyl)butyryl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide	unknown	P27487
+BE0000854		experimental	DB06880	(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-PROP-1-YN-1-YLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE	unknown	P27487
+BE0000854		experimental	DB06939	N-(TRANS-4-{(1S,2S)-2-AMINO-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-1-METHYL-3-OXOPROPYL}CYCLOHEXYL)-N-METHYLACETAMIDE	unknown	P27487
+BE0000854		experimental	DB06993	(2S,3S)-4-cyclopropyl-3-{(3R,5R)-3-[2-fluoro-4-(methylsulfonyl)phenyl]-1,2,4-oxadiazolidin-5-yl}-1-[(3S)-3-fluoropyrrolidin-1-yl]-1-oxobutan-2-amine	unknown	P27487
+BE0000854		experimental	DB06994	(2S,3S)-3-{3-[2-chloro-4-(methylsulfonyl)phenyl]-1,2,4-oxadiazol-5-yl}-1-cyclopentylidene-4-cyclopropyl-1-fluorobutan-2-amine	unknown	P27487
+BE0000854		experimental	DB07015	(3R,4R)-4-(pyrrolidin-1-ylcarbonyl)-1-(quinoxalin-2-ylcarbonyl)pyrrolidin-3-amine	unknown	P27487
+BE0000854		experimental	DB07021	(7R,8R)-8-(2,4,5-trifluorophenyl)-6,7,8,9-tetrahydroimidazo[1,2-a:4,5-c']dipyridin-7-amine	unknown	P27487
+BE0000854		experimental	DB07067	(2S,3S)-3-{3-[4-(METHYLSULFONYL)PHENYL]-1,2,4-OXADIAZOL-5-YL}-1-OXO-1-PYRROLIDIN-1-YLBUTAN-2-AMINE	unknown	P27487
+BE0000854		experimental	DB07072	(1S,2R,5S)-5-[3-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[4,3-A]PYRAZIN-7(8H)-YL]-2-(2,4,5-TRIFLUOROPHENYL)CYCLOHEXANAMINE	unknown	P27487
+BE0000854		experimental	DB07081	(2R)-4-[(8R)-8-METHYL-2-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[1,5-A]PYRAZIN-7(8H)-YL]-4-OXO-1-(2,4,5-TRIFLUOROPHENYL)BUTAN-2-AMINE	unknown	P27487
+BE0000854		experimental	DB07092	(2S,3S)-3-AMINO-4-(3,3-DIFLUOROPYRROLIDIN-1-YL)-N,N-DIMETHYL-4-OXO-2-(TRANS-4-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-6-YLCYCLOHEXYL)BUTANAMIDE	unknown	P27487
+BE0000854		experimental	DB07135	(2S,3S)-3-AMINO-4-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-N,N-DIMETHYL-4-OXO-2-(TRANS-4-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-5-YLCYCLOHEXYL)BUTANAMIDE	unknown	P27487
+BE0000854		experimental	DB07154	(3R)-4-[(3R)-3-AMINO-4-(2,4,5-TRIFLUOROPHENYL)BUTANOYL]-3-METHYL-1,4-DIAZEPAN-2-ONE	unknown	P27487
+BE0000854		experimental	DB07181	4'-[(1R)-1-amino-2-(2,5-difluorophenyl)ethyl]biphenyl-3-carboxamide	unknown	P27487
+BE0000854		experimental	DB07193	(2R,3R)-7-(methylsulfonyl)-3-(2,4,5-trifluorophenyl)-1,2,3,4-tetrahydropyrido[1,2-a]benzimidazol-2-amine	unknown	P27487
+BE0000854		experimental	DB07239	7-(aminomethyl)-6-(2-chlorophenyl)-1-methyl-1H-benzimidazole-5-carbonitrile	unknown	P27487
+BE0000854		experimental	DB07271	4-[(3R)-3-Amino-4-(2,4,5-trifluorophenyl)butanoyl]-3-(2,2,2-trifluoroethyl)-1,4-diazepan-2-one	unknown	P27487
+BE0000854		experimental	DB07328	METHYL 4-{[({[(2R,5S)-5-{[(2S)-2-(AMINOMETHYL)PYRROLIDIN-1-YL]CARBONYL}PYRROLIDIN-2-YL]METHYL}AMINO)CARBONYL]AMINO}BENZOATE	unknown	P27487
+BE0000854		experimental	DB07356	(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-ETHYNYLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE	unknown	P27487
+BE0000854		experimental	DB07412	1-biphenyl-2-ylmethanamine	unknown	P27487
+BE0000854		experimental	DB07465	(1S,3S,5S)-2-{(2S)-2-amino-2-[(1R,3S,5R,7S)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile	unknown	P27487
+BE0000854		experimental	DB07482	(2R)-N-[(2R)-2-(DIHYDROXYBORYL)-1-L-PROLYLPYRROLIDIN-2-YL]-N-[(5R)-5-(DIHYDROXYBORYL)-1-L-PROLYLPYRROLIDIN-2-YL]-L-PROLINAMIDE	unknown	P27487
+BE0000854		experimental	DB07666	(3R,4S)-1-{6-[3-(METHYLSULFONYL)PHENYL]PYRIMIDIN-4-YL}-4-(2,4,5-TRIFLUOROPHENYL)PYRROLIDIN-3-AMINE	unknown	P27487
+BE0000854		experimental	DB07779	N-({(2S)-1-[(3R)-3-AMINO-4-(2-FLUOROPHENYL)BUTANOYL]PYRROLIDIN-2-YL}METHYL)BENZAMIDE	unknown	P27487
+BE0000854		experimental	DB07830	(4R,5R)-5-AMINO-1-[2-(1,3-BENZODIOXOL-5-YL)ETHYL]-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-2-ONE	unknown	P27487
+BE0000854		experimental	DB07851	(3R,4S)-1-(3,4-DIMETHOXYPHENYL)-3-(3-METHYLPHENYL)PIPERIDIN-4-AMINE	unknown	P27487
+BE0000854		experimental	DB08024	1-[2-(S)-AMINO-3-BIPHENYL-4-YL-PROPIONYL]-PYRROLIDINE-2-(S)-CARBONITRILE	unknown	P27487
+BE0000854		experimental	DB08044	ABT-341	unknown	P27487
+BE0000854		experimental	DB08051	(2R)-4-(2-BENZOYL-1,2-DIAZEPAN-1-YL)-4-OXO-1-(2,4,5-TRIFLUOROPHENYL)BUTAN-2-AMINE	unknown	P27487
+BE0000854		experimental	DB08164	(3R,4R)-1-{6-[3-(METHYLSULFONYL)PHENYL]PYRIMIDIN-4-YL}-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-3-AMINE	unknown	P27487
+BE0000854		investigational	DB08382	Gosogliptin	yes	P27487
+BE0000854		experimental	DB03660	4-Iodo-L-phenylalanine	unknown	P27487
+BE0000854		experimental	DB08429	N-({(2S)-1-[(3R)-3-amino-4-(3-chlorophenyl)butanoyl]pyrrolidin-2-yl}methyl)-3-(methylsulfonyl)benzamide	unknown	P27487
+BE0000854		experimental	DB08445	(3R,4S)-1-[6-(6-METHOXYPYRIDIN-3-YL)PYRIMIDIN-4-YL]-4-(2,4,5-TRIFLUOROPHENYL)PYRROLIDIN-3-AMINE	unknown	P27487
+BE0000854		experimental	DB08504	6-(4-{(1S,2S)-2-AMINO-1-[(DIMETHYLAMINO)CARBONYL]-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-3-OXOPROPYL}PHENYL)-1H-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-4-IUM	unknown	P27487
+BE0000854		experimental	DB08530	7-BENZYL-1,3-DIMETHYL-8-PIPERAZIN-1-YL-3,7-DIHYDRO-PURINE-2,6-DIONE	unknown	P27487
+BE0000854		experimental	DB08588	2-({2-[(3R)-3-AMINOPIPERIDIN-1-YL]-4-OXOQUINAZOLIN-3(4H)-YL}METHYL)BENZONITRILE	unknown	P27487
+BE0000854		experimental	DB08672	4-[(3R)-3-{[2-(4-FLUOROPHENYL)-2-OXOETHYL]AMINO}BUTYL]BENZAMIDE	unknown	P27487
+BE0000854		experimental	DB08743	2-({8-[(3R)-3-AMINOPIPERIDIN-1-YL]-1,3-DIMETHYL-2,6-DIOXO-1,2,3,6-TETRAHYDRO-7H-PURIN-7-YL}METHYL)BENZONITRILE	unknown	P27487
+BE0000854	inhibitor	approved	DB08882	Linagliptin	yes	P27487
+BE0000854	substrate	approved	DB06655	Liraglutide	unknown	P27487
+BE0000854	substrate	approved, investigational	DB13928	Semaglutide	no	P27487
+BE0000854	substrate	approved, investigational	DB01276	Exenatide	unknown	P27487
+BE0003449		approved, investigational	DB09130	Copper	unknown	
+BE0003449		approved, investigational	DB01593	Zinc	unknown	
+BE0003449		approved, investigational	DB14487	Zinc acetate	unknown	
+BE0003449	inducerligand	approved, investigational	DB14533	Zinc chloride	unknown	
+BE0003449	inducerligand	approved, experimental	DB14548	Zinc sulfate, unspecified form	unknown	
+BE0002401		investigational	DB04983	Denufosol	unknown	P41231
+BE0002401		investigational	DB05390	INS 316	unknown	P41231
+BE0002401	antagonist	investigational	DB04786	Suramin	yes	P41231
+BE0002401	inhibitor	approved, investigational	DB01069	Promethazine	unknown	P41231
+BE0000922		approved, investigational	DB09130	Copper	unknown	
+BE0000922		approved, investigational	DB01593	Zinc	unknown	
+BE0000922		approved, investigational	DB14487	Zinc acetate	unknown	
+BE0003449		approved, investigational	DB09130	Copper	unknown	P02647
+BE0003449		approved, investigational	DB01593	Zinc	unknown	P02647
+BE0003449		approved, investigational	DB14487	Zinc acetate	unknown	P02647
+BE0003449	inducerligand	approved, investigational	DB14533	Zinc chloride	unknown	P02647
+BE0003449	inducerligand	approved, experimental	DB14548	Zinc sulfate, unspecified form	unknown	P02647
+BE0003449	binder	approved, investigational	DB11886	Infigratinib	no	P02647
+BE0003449	binder	approved, investigational	DB00877	Sirolimus	no	P02647
+BE0000922		approved, investigational	DB09130	Copper	unknown	P02652
+BE0000922		approved, investigational	DB01593	Zinc	unknown	P02652
+BE0000922		approved, investigational	DB14487	Zinc acetate	unknown	P02652
+BE0000922	binder	approved, investigational	DB11886	Infigratinib	no	P02652
+BE0000922	binder	approved, investigational	DB00877	Sirolimus	no	P02652
+BE0008643	inhibitor	approved	DB09302	Alirocumab	yes	
+BE0008643	antisense oligonucleotide	approved, investigational	DB14901	Inclisiran	yes	
+BE0008643	inhibitor	approved	DB09303	Evolocumab	yes	
+BE0001283	other	approved, investigational	DB00513	Aminocaproic acid	unknown	
+BE0000215	agonistregulator	approved, investigational, withdrawn	DB00197	Troglitazone	yes	
+BE0000215	agonist	approved, investigational	DB00412	Rosiglitazone	yes	
+BE0000215	agonist	approved, investigational	DB01132	Pioglitazone	yes	
+BE0000215	agonistregulator	approved, nutraceutical	DB00159	Icosapent	yes	
+BE0000215		investigational	DB04971	Reglitazar	unknown	
+BE0000215		experimental	DB04689	2-{5-[3-(6-BENZOYL-1-PROPYLNAPHTHALEN-2-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID	unknown	
+BE0000215		investigational	DB05187	Elafibranor	unknown	
+BE0000215	partial agonist	investigational	DB05490	AMG-131	yes	
+BE0000215		investigational	DB05854	CLX-0921	unknown	
+BE0000215		investigational	DB11811	Arhalofenate	unknown	
+BE0000215		investigational	DB12662	Naveglitazar	unknown	
+BE0000215		investigational	DB06510	Muraglitazar	unknown	
+BE0000215		investigational	DB06521	Ertiprotafib	unknown	
+BE0000215		investigational	DB06533	Ragaglitazar	unknown	
+BE0000215		investigational	DB06536	Tesaglitazar	unknown	
+BE0000215	activator	approved, investigational	DB00328	Indomethacin	unknown	
+BE0000215	agonist	approved, investigational	DB00731	Nateglinide	unknown	
+BE0000215	agonist	approved, investigational	DB00912	Repaglinide	unknown	
+BE0000215	agonist	investigational	DB01252	Mitiglinide	unknown	
+BE0000215	agonist	approved, investigational	DB01067	Glipizide	unknown	
+BE0000215	partial agonist	approved, investigational	DB00966	Telmisartan	yes	
+BE0000215	agonist	approved, investigational	DB01014	Balsalazide	yes	
+BE0000215	agonist	approved, investigational	DB01393	Bezafibrate	yes	
+BE0000215		experimental	DB06908	(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID	unknown	
+BE0000215		experimental	DB06926	(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid	unknown	
+BE0000215		experimental	DB07053	2-{5-[3-(7-PROPYL-3-TRIFLUOROMETHYLBENZO[D]ISOXAZOL-6-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID	unknown	
+BE0000215		experimental	DB07111	(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-hydroxydocosa-5,7,10,13,16,19-hexaenoic acid	unknown	
+BE0000215		experimental	DB07172	(5R,6E,8Z,11Z,14Z,17Z)-5-hydroxyicosa-6,8,11,14,17-pentaenoic acid	unknown	
+BE0000215		experimental	DB07208	(8E,10S,12Z)-10-hydroxy-6-oxooctadeca-8,12-dienoic acid	unknown	
+BE0000215		experimental	DB07209	(8R,9Z,12Z)-8-hydroxy-6-oxooctadeca-9,12-dienoic acid	unknown	
+BE0000215		experimental	DB07302	9(S)-HODE	unknown	
+BE0000215		experimental	DB07509	difluoro(5-{2-[(5-octyl-1H-pyrrol-2-yl-kappaN)methylidene]-2H-pyrrol-5-yl-kappaN}pentanoato)boron	unknown	
+BE0000215		experimental	DB07675	(2S)-2-ETHOXY-3-{4-[2-(10H-PHENOXAZIN-10-YL)ETHOXY]PHENYL}PROPANOIC ACID	unknown	
+BE0000215		experimental	DB07723	3-(5-methoxy-1H-indol-3-yl)propanoic acid	unknown	
+BE0000215		experimental	DB07724	Indeglitazar	unknown	
+BE0000215		experimental	DB07842	(2S)-2-(4-ethylphenoxy)-3-phenylpropanoic acid	unknown	
+BE0000215		experimental	DB07863	2-chloro-5-nitro-N-phenylbenzamide	unknown	
+BE0000215		experimental	DB08121	(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid	unknown	
+BE0000215		experimental	DB08302	3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid	unknown	
+BE0000215		experimental	DB08402	2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID	unknown	
+BE0000215		experimental	DB08435	(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid	unknown	
+BE0000215		experimental	DB08560	3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE	unknown	
+BE0000215		experimental	DB04270	(S)-3-(4-(2-Carbazol-9-Yl-Ethoxy)-Phenyl)-2-Ethoxy-Propionic Acid	unknown	
+BE0000215		experimental	DB08760	(2S)-2-(4-chlorophenoxy)-3-phenylpropanoic acid	unknown	
+BE0000215	agonist	approved	DB00244	Mesalazine	yes	
+BE0000215	agonist	approved	DB00795	Sulfasalazine	yes	
+BE0000215	activator	approved	DB01050	Ibuprofen	unknown	
+BE0000215	agonist	investigational	DB08915	Aleglitazar	yes	
+BE0000215	activator	approved, investigational	DB09213	Dexibuprofen	unknown	
+BE0000215	ligand	approved, nutraceutical	DB11133	Omega-3 fatty acids	yes	
+BE0000215	activator	approved, investigational	DB03756	Doconexent	yes	
+BE0000215	activator	experimental	DB09198	Lobeglitazone	yes	
+BE0000215		experimental	DB09006	Clinofibrate	unknown	
+BE0000215	agonist	experimental	DB09201	Ciglitazone	yes	
+BE0000215		approved, investigational	DB11672	Curcumin	unknown	
+BE0000215		approved, investigational, nutraceutical	DB00132	alpha-Linolenic acid	unknown	
+BE0000215		experimental	DB02746	Phthalic Acid	unknown	
+BE0000215		investigational	DB02709	Resveratrol	unknown	
+BE0000215	agonist	approved, investigational	DB01118	Amiodarone	unknown	
+BE0000215		approved, investigational	DB00313	Valproic acid	unknown	
+BE0000215	ligand	experimental	DB03600	Capric acid	unknown	
+BE0000215	ligand	approved, investigational, vet_approved	DB04224	Oleic Acid	unknown	
+BE0000215		approved, investigational	DB08604	Triclosan	unknown	
+BE0000215		approved	DB00573	Fenoprofen	unknown	
+BE0000215	agonist	approved	DB02266	Flufenamic acid	unknown	
+BE0000215	activator	approved, investigational	DB09061	Cannabidiol	unknown	
+BE0000215		approved	DB13873	Fenofibric acid	unknown	
+BE0000215		investigational	DB14011	Nabiximols	unknown	
+BE0000215		experimental, investigational	DB14009	Medical Cannabis	unknown	
+BE0000215		approved, nutraceutical	DB13961	Fish oil	unknown	
+BE0000215	agonist	experimental	DB14034	Darglitazone	unknown	
+BE0000215	agonist	experimental	DB12007	Isoflavone	unknown	
+BE0000215		experimental	DB14635	Curcumin sulfate	unknown	
+BE0000215	modulator	approved, investigational	DB00845	Clofazimine	unknown	
+BE0001283	other	approved, investigational	DB00513	Aminocaproic acid	unknown	P08519
+BE0001283	binder	approved, investigational	DB11886	Infigratinib	no	P08519
+BE0001283	binder	approved, investigational	DB00877	Sirolimus	no	P08519
+BE0008643	inhibitor	approved	DB09302	Alirocumab	yes	Q8NBP7
+BE0008643	antisense oligonucleotide	approved, investigational	DB14901	Inclisiran	yes	Q8NBP7
+BE0008643	inhibitor	approved	DB09303	Evolocumab	yes	Q8NBP7
+BE0000393	antagonist	approved, vet_approved	DB00508	Triflupromazine	yes	
+BE0000393	antagonist	approved	DB00805	Minaprine	yes	
+BE0000393	agonist	approved, illicit, investigational, withdrawn	DB00574	Fenfluramine	no	
+BE0000393	antagonist	approved, investigational, withdrawn	DB01079	Tegaserod	unknown	
+BE0000393		investigational	DB05461	OPC-28326	unknown	
+BE0000393		investigational	DB05492	Epicept NP-1	unknown	
+BE0000393	antagonist	approved	DB06216	Asenapine	unknown	
+BE0000393		investigational	DB06229	Ocaperidone	unknown	
+BE0000393	agonist	approved, investigational, vet_approved, withdrawn	DB01186	Pergolide	unknown	
+BE0000393	agonist	approved, investigational	DB01200	Bromocriptine	unknown	
+BE0000393	antagonist	approved, investigational	DB00589	Lisuride	unknown	
+BE0000393	agonist	approved	DB00248	Cabergoline	unknown	
+BE0000393	agonist	approved, investigational	DB00714	Apomorphine	unknown	
+BE0000393	antagonist	approved	DB00247	Methysergide	yes	
+BE0000393	agonist	approved, investigational	DB00320	Dihydroergotamine	unknown	
+BE0000393	antagonist	approved, investigational, vet_approved	DB01242	Clomipramine	yes	
+BE0000393	antagonist	approved, investigational	DB01142	Doxepin	unknown	
+BE0000393	agonist	experimental, illicit, investigational	DB01454	Midomafetamine	unknown	
+BE0000393	antagonist	approved, investigational, vet_approved	DB01392	Yohimbine	unknown	
+BE0000393	antagonist	approved	DB00543	Amoxapine	unknown	
+BE0000393	binder	approved, investigational	DB06148	Mianserin	unknown	
+BE0000393		approved	DB00696	Ergotamine	unknown	
+BE0000393		approved	DB00353	Methylergometrine	unknown	
+BE0000393	agonist	illicit, investigational, withdrawn	DB04829	Lysergic acid diethylamide	unknown	
+BE0000393		investigational	DB09286	Pipamperone	unknown	
+BE0000393	antagonist	approved	DB06153	Pizotifen	unknown	
+BE0000393	antagonist	investigational	DB05607	PRX-08066	unknown	
+BE0000393	agonist	approved, investigational	DB00715	Paroxetine	unknown	
+BE0000393	antagonist	approved	DB00924	Cyclobenzaprine	unknown	
+BE0000393	inverse agonist	approved, investigational	DB01238	Aripiprazole	unknown	
+BE0000393	agonist	approved, investigational	DB00315	Zolmitriptan	no	
+BE0000393	antagonist	approved	DB00434	Cyproheptadine	unknown	
+BE0000393	antagonist	approved, investigational	DB06016	Cariprazine	unknown	
+BE0000393	antagonist	approved, investigational, withdrawn	DB09185	Viloxazine	yes	
+BE0000215	agonistregulator	approved, investigational, withdrawn	DB00197	Troglitazone	yes	P37231
+BE0000215	agonist	approved, investigational	DB00412	Rosiglitazone	yes	P37231
+BE0000215	agonist	approved, investigational	DB01132	Pioglitazone	yes	P37231
+BE0000215	agonistregulator	approved, nutraceutical	DB00159	Icosapent	yes	P37231
+BE0000215		investigational	DB04971	Reglitazar	unknown	P37231
+BE0000215		experimental	DB04689	2-{5-[3-(6-BENZOYL-1-PROPYLNAPHTHALEN-2-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID	unknown	P37231
+BE0000215		investigational	DB05187	Elafibranor	unknown	P37231
+BE0000215	partial agonist	investigational	DB05490	AMG-131	yes	P37231
+BE0000215		investigational	DB05854	CLX-0921	unknown	P37231
+BE0000215		investigational	DB11811	Arhalofenate	unknown	P37231
+BE0000215		investigational	DB12662	Naveglitazar	unknown	P37231
+BE0000215		investigational	DB06510	Muraglitazar	unknown	P37231
+BE0000215		investigational	DB06521	Ertiprotafib	unknown	P37231
+BE0000215		investigational	DB06533	Ragaglitazar	unknown	P37231
+BE0000215		investigational	DB06536	Tesaglitazar	unknown	P37231
+BE0000215	activator	approved, investigational	DB00328	Indomethacin	unknown	P37231
+BE0000215	agonist	approved, investigational	DB00731	Nateglinide	unknown	P37231
+BE0000215	agonist	approved, investigational	DB00912	Repaglinide	unknown	P37231
+BE0000215	agonist	investigational	DB01252	Mitiglinide	unknown	P37231
+BE0000215	agonist	approved, investigational	DB01067	Glipizide	unknown	P37231
+BE0000215	partial agonist	approved, investigational	DB00966	Telmisartan	yes	P37231
+BE0000215	agonist	approved, investigational	DB01014	Balsalazide	yes	P37231
+BE0000215	agonist	approved, investigational	DB01393	Bezafibrate	yes	P37231
+BE0000215		experimental	DB06908	(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID	unknown	P37231
+BE0000215		experimental	DB06926	(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid	unknown	P37231
+BE0000215		experimental	DB07053	2-{5-[3-(7-PROPYL-3-TRIFLUOROMETHYLBENZO[D]ISOXAZOL-6-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID	unknown	P37231
+BE0000215		experimental	DB07111	(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-hydroxydocosa-5,7,10,13,16,19-hexaenoic acid	unknown	P37231
+BE0000215		experimental	DB07172	(5R,6E,8Z,11Z,14Z,17Z)-5-hydroxyicosa-6,8,11,14,17-pentaenoic acid	unknown	P37231
+BE0000215		experimental	DB07208	(8E,10S,12Z)-10-hydroxy-6-oxooctadeca-8,12-dienoic acid	unknown	P37231
+BE0000215		experimental	DB07209	(8R,9Z,12Z)-8-hydroxy-6-oxooctadeca-9,12-dienoic acid	unknown	P37231
+BE0000215		experimental	DB07302	9(S)-HODE	unknown	P37231
+BE0000215		experimental	DB07509	difluoro(5-{2-[(5-octyl-1H-pyrrol-2-yl-kappaN)methylidene]-2H-pyrrol-5-yl-kappaN}pentanoato)boron	unknown	P37231
+BE0000215		experimental	DB07675	(2S)-2-ETHOXY-3-{4-[2-(10H-PHENOXAZIN-10-YL)ETHOXY]PHENYL}PROPANOIC ACID	unknown	P37231
+BE0000215		experimental	DB07723	3-(5-methoxy-1H-indol-3-yl)propanoic acid	unknown	P37231
+BE0000215		experimental	DB07724	Indeglitazar	unknown	P37231
+BE0000215		experimental	DB07842	(2S)-2-(4-ethylphenoxy)-3-phenylpropanoic acid	unknown	P37231
+BE0000215		experimental	DB07863	2-chloro-5-nitro-N-phenylbenzamide	unknown	P37231
+BE0000215		experimental	DB08121	(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid	unknown	P37231
+BE0000215		experimental	DB08302	3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid	unknown	P37231
+BE0000215		experimental	DB08402	2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID	unknown	P37231
+BE0000215		experimental	DB08435	(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid	unknown	P37231
+BE0000215		experimental	DB08560	3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE	unknown	P37231
+BE0000215		experimental	DB04270	(S)-3-(4-(2-Carbazol-9-Yl-Ethoxy)-Phenyl)-2-Ethoxy-Propionic Acid	unknown	P37231
+BE0000215		experimental	DB08760	(2S)-2-(4-chlorophenoxy)-3-phenylpropanoic acid	unknown	P37231
+BE0000215	agonist	approved	DB00244	Mesalazine	yes	P37231
+BE0000215	agonist	approved	DB00795	Sulfasalazine	yes	P37231
+BE0000215	activator	approved	DB01050	Ibuprofen	unknown	P37231
+BE0000215	agonist	investigational	DB08915	Aleglitazar	yes	P37231
+BE0000215	activator	approved, investigational	DB09213	Dexibuprofen	unknown	P37231
+BE0000215	ligand	approved, nutraceutical	DB11133	Omega-3 fatty acids	yes	P37231
+BE0000215	activator	approved, investigational	DB03756	Doconexent	yes	P37231
+BE0000215	activator	experimental	DB09198	Lobeglitazone	yes	P37231
+BE0000215		experimental	DB09006	Clinofibrate	unknown	P37231
+BE0000215	agonist	experimental	DB09201	Ciglitazone	yes	P37231
+BE0000215		approved, investigational	DB11672	Curcumin	unknown	P37231
+BE0000215		approved, investigational, nutraceutical	DB00132	alpha-Linolenic acid	unknown	P37231
+BE0000215		experimental	DB02746	Phthalic Acid	unknown	P37231
+BE0000215		investigational	DB02709	Resveratrol	unknown	P37231
+BE0000215	agonist	approved, investigational	DB01118	Amiodarone	unknown	P37231
+BE0000215		approved, investigational	DB00313	Valproic acid	unknown	P37231
+BE0000215	ligand	experimental	DB03600	Capric acid	unknown	P37231
+BE0000215	ligand	approved, investigational, vet_approved	DB04224	Oleic Acid	unknown	P37231
+BE0000215		approved, investigational	DB08604	Triclosan	unknown	P37231
+BE0000215		approved	DB00573	Fenoprofen	unknown	P37231
+BE0000215	agonist	approved	DB02266	Flufenamic acid	unknown	P37231
+BE0000215	activator	approved, investigational	DB09061	Cannabidiol	unknown	P37231
+BE0000215		approved	DB13873	Fenofibric acid	unknown	P37231
+BE0000215		investigational	DB14011	Nabiximols	unknown	P37231
+BE0000215		experimental, investigational	DB14009	Medical Cannabis	unknown	P37231
+BE0000215		approved, nutraceutical	DB13961	Fish oil	unknown	P37231
+BE0000215	agonist	experimental	DB14034	Darglitazone	unknown	P37231
+BE0000215	agonist	experimental	DB12007	Isoflavone	unknown	P37231
+BE0000215		experimental	DB14635	Curcumin sulfate	unknown	P37231
+BE0000215	modulator	approved, investigational	DB00845	Clofazimine	unknown	P37231
+BE0001646		experimental	DB03767	Morpholine-4-Carboxylic Acid [1s-(2-Benzyloxy-1r-Cyano-Ethylcarbamoyl)-3-Methyl-Butyl]Amide	unknown	
+BE0001646		experimental	DB03837	Morpholine-4-Carboxylic Acid (1-(3-Benzenesulfonyl-1-Phenethylallylcarbamoyl)-3-Methylbutyl)-Amide	unknown	
+BE0001646		experimental	DB03984	Morpholine-4-Carboxylic Acid [1-(2-Benzylsulfanyl-1-Formyl-Ethylcarbamoyl)-2-Phenyl-Ethyl]-Amide	unknown	
+BE0001646		experimental	DB07520	N-[1-(AMINOMETHYL)CYCLOPROPYL]-3-(MORPHOLIN-4-YLSULFONYL)-N~2~-[(1S)-2,2,2-TRIFLUORO-1-(4-FLUOROPHENYL)ETHYL]-L-ALANINAMIDE	unknown	
+BE0001646		experimental	DB07587	N-(1-CYANOCYCLOPROPYL)-3-({[(2S)-5-OXOPYRROLIDIN-2-YL]METHYL}SULFONYL)-N~2~-[(1S)-2,2,2-TRIFLUORO-1-(4-FLUOROPHENYL)ETHYL]-L-ALANINAMIDE	unknown	
+BE0001646		experimental	DB07589	N-[1-(AMINOMETHYL)CYCLOPROPYL]-3-(BENZYLSULFONYL)-N~2~-[(1S)-2,2,2-TRIFLUORO-1-(4-HYDROXYPHENYL)ETHYL]-L-ALANINAMIDE	unknown	
+BE0001646		experimental	DB07839	N~2~-1,3-BENZOXAZOL-2-YL-3-CYCLOHEXYL-N-{2-[(4-METHOXYPHENYL)AMINO]ETHYL}-L-ALANINAMIDE	unknown	
+BE0001646		experimental	DB07878	N-[(1S)-1-{1-[(1R,3E)-1-ACETYLPENT-3-EN-1-YL]-1H-1,2,3-TRIAZOL-4-YL}-1,2-DIMETHYLPROPYL]BENZAMIDE	unknown	
+BE0001646		experimental	DB08195	(1R)-2-[(CYANOMETHYL)AMINO]-1-({[2-(DIFLUOROMETHOXY)BENZYL]SULFONYL}METHYL)-2-OXOETHYL MORPHOLINE-4-CARBOXYLATE	unknown	
+BE0001646		experimental	DB08611	2-[(2',3',4'-TRIFLUOROBIPHENYL-2-YL)OXY]ETHANOL	unknown	
+BE0001646		experimental	DB08752	N-[(1S)-2-[(4-cyano-1-methylpiperidin-4-yl)amino]-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide	unknown	
+BE0001646		experimental	DB08755	N-[(1S)-2-{[(1R)-2-(benzyloxy)-1-cyano-1-methylethyl]amino}-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide	unknown	
+BE0001646	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	
+BE0000393	antagonist	approved, vet_approved	DB00508	Triflupromazine	yes	P41595
+BE0000393	antagonist	approved	DB00805	Minaprine	yes	P41595
+BE0000393	agonist	approved, illicit, investigational, withdrawn	DB00574	Fenfluramine	no	P41595
+BE0000393	antagonist	approved, investigational, withdrawn	DB01079	Tegaserod	unknown	P41595
+BE0000393		investigational	DB05461	OPC-28326	unknown	P41595
+BE0000393		investigational	DB05492	Epicept NP-1	unknown	P41595
+BE0000393	antagonist	approved	DB06216	Asenapine	unknown	P41595
+BE0000393		investigational	DB06229	Ocaperidone	unknown	P41595
+BE0000393	agonist	approved, investigational, vet_approved, withdrawn	DB01186	Pergolide	unknown	P41595
+BE0000393	agonist	approved, investigational	DB01200	Bromocriptine	unknown	P41595
+BE0000393	antagonist	approved, investigational	DB00589	Lisuride	unknown	P41595
+BE0000393	agonist	approved	DB00248	Cabergoline	unknown	P41595
+BE0000393	agonist	approved, investigational	DB00714	Apomorphine	unknown	P41595
+BE0000393	antagonist	approved	DB00247	Methysergide	yes	P41595
+BE0000393	agonist	approved, investigational	DB00320	Dihydroergotamine	unknown	P41595
+BE0000393	antagonist	approved, investigational, vet_approved	DB01242	Clomipramine	yes	P41595
+BE0000393	antagonist	approved, investigational	DB01142	Doxepin	unknown	P41595
+BE0000393	agonist	experimental, illicit, investigational	DB01454	Midomafetamine	unknown	P41595
+BE0000393	antagonist	approved, investigational, vet_approved	DB01392	Yohimbine	unknown	P41595
+BE0000393	antagonist	approved	DB00543	Amoxapine	unknown	P41595
+BE0000393	binder	approved, investigational	DB06148	Mianserin	unknown	P41595
+BE0000393		approved	DB00696	Ergotamine	unknown	P41595
+BE0000393		approved	DB00353	Methylergometrine	unknown	P41595
+BE0000393	agonist	illicit, investigational, withdrawn	DB04829	Lysergic acid diethylamide	unknown	P41595
+BE0000393		investigational	DB09286	Pipamperone	unknown	P41595
+BE0000393	antagonist	approved	DB06153	Pizotifen	unknown	P41595
+BE0000393	antagonist	investigational	DB05607	PRX-08066	unknown	P41595
+BE0000393	agonist	approved, investigational	DB00715	Paroxetine	unknown	P41595
+BE0000393	antagonist	approved	DB00924	Cyclobenzaprine	unknown	P41595
+BE0000393	inverse agonist	approved, investigational	DB01238	Aripiprazole	unknown	P41595
+BE0000393	agonist	approved, investigational	DB00315	Zolmitriptan	no	P41595
+BE0000393	antagonist	approved	DB00434	Cyproheptadine	unknown	P41595
+BE0000393	antagonist	approved, investigational	DB06016	Cariprazine	unknown	P41595
+BE0000393	antagonist	approved, investigational, withdrawn	DB09185	Viloxazine	yes	P41595
+BE0000393	antagonist	investigational	DB13025	Tiapride	yes	P41595
+BE0000393	antagonist	experimental	DB09304	Setiptiline	unknown	P41595
+BE0000393	antagonist	approved, experimental	DB13345	Dihydroergocristine	yes	P41595
+BE0000393	antagonistagonist	approved	DB01049	Ergoloid mesylate	yes	P41595
+BE0000393	antagonistagonist	approved	DB11273	Dihydroergocornine	yes	P41595
+BE0000393	inhibitor	approved, investigational	DB12141	Gilteritinib	no	P41595
+BE0000393		approved, investigational	DB00715	Paroxetine	unknown	P41595
+BE0000393	inhibitor	approved, experimental, investigational, withdrawn	DB01239	Chlorprothixene	yes	P41595
+BE0000393	binder	approved, investigational, vet_approved	DB00477	Chlorpromazine	unknown	P41595
+BE0000393	modulator	approved, illicit	DB08804	Nandrolone decanoate	unknown	P41595
+BE0000393	antagonist	approved, vet_approved	DB01221	Ketamine	unknown	P41595
+BE0000393	inverse agonist	investigational	DB06678	Esmirtazapine	unknown	P41595
+BE0009698	inhibitor	approved, investigational	DB00482	Celecoxib	unknown	
+BE0001646		experimental	DB03767	Morpholine-4-Carboxylic Acid [1s-(2-Benzyloxy-1r-Cyano-Ethylcarbamoyl)-3-Methyl-Butyl]Amide	unknown	P25774
+BE0001646		experimental	DB03837	Morpholine-4-Carboxylic Acid (1-(3-Benzenesulfonyl-1-Phenethylallylcarbamoyl)-3-Methylbutyl)-Amide	unknown	P25774
+BE0001646		experimental	DB03984	Morpholine-4-Carboxylic Acid [1-(2-Benzylsulfanyl-1-Formyl-Ethylcarbamoyl)-2-Phenyl-Ethyl]-Amide	unknown	P25774
+BE0001646		experimental	DB07520	N-[1-(AMINOMETHYL)CYCLOPROPYL]-3-(MORPHOLIN-4-YLSULFONYL)-N~2~-[(1S)-2,2,2-TRIFLUORO-1-(4-FLUOROPHENYL)ETHYL]-L-ALANINAMIDE	unknown	P25774
+BE0001646		experimental	DB07587	N-(1-CYANOCYCLOPROPYL)-3-({[(2S)-5-OXOPYRROLIDIN-2-YL]METHYL}SULFONYL)-N~2~-[(1S)-2,2,2-TRIFLUORO-1-(4-FLUOROPHENYL)ETHYL]-L-ALANINAMIDE	unknown	P25774
+BE0001646		experimental	DB07589	N-[1-(AMINOMETHYL)CYCLOPROPYL]-3-(BENZYLSULFONYL)-N~2~-[(1S)-2,2,2-TRIFLUORO-1-(4-HYDROXYPHENYL)ETHYL]-L-ALANINAMIDE	unknown	P25774
+BE0001646		experimental	DB07839	N~2~-1,3-BENZOXAZOL-2-YL-3-CYCLOHEXYL-N-{2-[(4-METHOXYPHENYL)AMINO]ETHYL}-L-ALANINAMIDE	unknown	P25774
+BE0001646		experimental	DB07878	N-[(1S)-1-{1-[(1R,3E)-1-ACETYLPENT-3-EN-1-YL]-1H-1,2,3-TRIAZOL-4-YL}-1,2-DIMETHYLPROPYL]BENZAMIDE	unknown	P25774
+BE0001646		experimental	DB08195	(1R)-2-[(CYANOMETHYL)AMINO]-1-({[2-(DIFLUOROMETHOXY)BENZYL]SULFONYL}METHYL)-2-OXOETHYL MORPHOLINE-4-CARBOXYLATE	unknown	P25774
+BE0001646		experimental	DB08611	2-[(2',3',4'-TRIFLUOROBIPHENYL-2-YL)OXY]ETHANOL	unknown	P25774
+BE0001646		experimental	DB08752	N-[(1S)-2-[(4-cyano-1-methylpiperidin-4-yl)amino]-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide	unknown	P25774
+BE0001646		experimental	DB08755	N-[(1S)-2-{[(1R)-2-(benzyloxy)-1-cyano-1-methylethyl]amino}-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide	unknown	P25774
+BE0001646	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P25774
+BE0004807	chelator	approved, investigational	DB00746	Deferoxamine	yes	
+BE0004807	chelator	approved, investigational	DB01609	Deferasirox	yes	
+BE0004807	chelator	approved, vet_approved	DB00974	Edetic acid	unknown	
+BE0004807	chelator	approved, vet_approved	DB14600	Edetate disodium anhydrous	unknown	
+BE0004807	chelator	approved	DB14598	Edetate calcium disodium anhydrous	unknown	
+BE0004807	chelator	approved	DB08826	Deferiprone	yes	
+BE0009698	inhibitor	approved, investigational	DB00482	Celecoxib	unknown	H3BUU9
+BE0000030		approved, nutraceutical	DB00138	Cystine	unknown	
+BE0000030	inhibitor	approved	DB00795	Sulfasalazine	unknown	
+BE0000030		approved, nutraceutical	DB00142	Glutamic acid	unknown	
+BE0000030	inducer	approved, investigational	DB00740	Riluzole	yes	
+BE0000030		investigational	DB05540	Alanosine	unknown	
+BE0000030		approved, experimental	DB04348	Taurocholic acid	unknown	
+BE0000030		approved	DB01098	Rosuvastatin	unknown	
+BE0000030		experimental	DB08833	Taurochenodeoxycholic acid	unknown	
+BE0000030		experimental, investigational	DB08834	Tauroursodeoxycholic acid	unknown	
+BE0000030	activator	approved, investigational	DB06151	Acetylcysteine	yes	
+BE0000030	antagonist	approved	DB11590	Thimerosal	unknown	
+BE0003450		investigational	DB12773	Sifalimumab	unknown	
+BE0000030		approved, nutraceutical	DB00138	Cystine	unknown	Q9UPY5
+BE0000030	inhibitor	approved	DB00795	Sulfasalazine	unknown	Q9UPY5
+BE0000030		approved, nutraceutical	DB00142	Glutamic acid	unknown	Q9UPY5
+BE0000030	inducer	approved, investigational	DB00740	Riluzole	yes	Q9UPY5
+BE0000030		investigational	DB05540	Alanosine	unknown	Q9UPY5
+BE0000030		approved, experimental	DB04348	Taurocholic acid	unknown	Q9UPY5
+BE0000030		approved	DB01098	Rosuvastatin	unknown	Q9UPY5
+BE0000030		experimental	DB08833	Taurochenodeoxycholic acid	unknown	Q9UPY5
+BE0000030		experimental, investigational	DB08834	Tauroursodeoxycholic acid	unknown	Q9UPY5
+BE0000030	activator	approved, investigational	DB06151	Acetylcysteine	yes	Q9UPY5
+BE0000030	antagonist	approved	DB11590	Thimerosal	unknown	Q9UPY5
+BE0001353		experimental	DB01827	2,3,5,6-Tetrafluoro-4-Methoxy-Benzamide	unknown	
+BE0001353		approved, experimental, investigational	DB04465	Lactose	unknown	
+BE0003450		investigational	DB12773	Sifalimumab	unknown	P01563
+BE0000944	inhibitor	approved, investigational	DB01296	Glucosamine	unknown	
+BE0000944		investigational	DB05110	VIR201	unknown	
+BE0000944		investigational	DB05111	Fontolizumab	unknown	
+BE0000944		approved	DB01250	Olsalazine	yes	
+BE0000944	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	
+BE0000944	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	
+BE0000944	neutralizer	approved, investigational	DB14724	Emapalumab	yes	
+BE0001353		experimental	DB01827	2,3,5,6-Tetrafluoro-4-Methoxy-Benzamide	unknown	P17931
+BE0001353		approved, experimental, investigational	DB04465	Lactose	unknown	P17931
+BE0000944	inhibitor	approved, investigational	DB01296	Glucosamine	unknown	P01579
+BE0000944		investigational	DB05110	VIR201	unknown	P01579
+BE0000944		investigational	DB05111	Fontolizumab	unknown	P01579
+BE0000944		approved	DB01250	Olsalazine	yes	P01579
+BE0000944	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	P01579
+BE0000944	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	P01579
+BE0000944	neutralizer	approved, investigational	DB14724	Emapalumab	yes	P01579
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	
+BE0001062	inhibitor	approved, investigational	DB00605	Sulindac	unknown	
+BE0001062	inducer	approved, investigational	DB01169	Arsenic trioxide	yes	
+BE0001062	inhibitor	experimental	DB02733	Purvalanol	unknown	
+BE0001062		investigational	DB06195	Seliciclib	unknown	
+BE0001062		experimental	DB04604	5-iodotubercidin	unknown	
+BE0001062	inhibitor	investigational	DB13930	Ulixertinib	unknown	
+BE0001062		approved, investigational	DB08862	Cholecystokinin	unknown	
+BE0009668	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q8TD08
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q8TD08
+BE0009668	inhibitor	approved, investigational	DB01017	Minocycline	unknown	Q8TD08
+BE0009668	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	Q13164
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q13164
+BE0009668	inhibitor	approved, investigational	DB01017	Minocycline	unknown	Q13164
+BE0009668	inhibitor	approved, investigational	DB12010	Fostamatinib	unknown	P31152
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	P31152
+BE0009668	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P31152
+BE0009668	inhibitor	approved, investigational	DB00605	Sulindac	unknown	P27361
+BE0009668	inducer	approved, investigational	DB01169	Arsenic trioxide	yes	P27361
+BE0009668	inhibitor	experimental	DB02733	Purvalanol	unknown	P27361
+BE0009668		investigational	DB06195	Seliciclib	unknown	P27361
+BE0009668		experimental	DB04604	5-iodotubercidin	unknown	P27361
+BE0009668	inhibitor	investigational	DB13930	Ulixertinib	unknown	P27361
+BE0009668		approved, investigational	DB08862	Cholecystokinin	unknown	P27361
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	P27361
+BE0009668	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P27361
+BE0009668	inducer	approved, investigational	DB01169	Arsenic trioxide	yes	P28482
+BE0009668		experimental	DB02482	Phosphonothreonine	unknown	P28482
+BE0009668	inhibitor	experimental	DB02733	Purvalanol	unknown	P28482
+BE0009668		investigational	DB06195	Seliciclib	unknown	P28482
+BE0009668		investigational	DB06641	Perifosine	unknown	P28482
+BE0009668		experimental	DB06877	N,N-DIMETHYL-4-(4-PHENYL-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE	unknown	P28482
+BE0009668		experimental	DB07010	N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE	unknown	P28482
+BE0009668		experimental	DB07264	(S)-N-(1-(3-CHLORO-4-FLUOROPHENYL)-2-HYDROXYETHYL)-4-(4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE	unknown	P28482
+BE0009668		experimental	DB07788	(3R,5Z,8S,9S,11E)-8,9,16-TRIHYDROXY-14-METHOXY-3-METHYL-3,4,9,10-TETRAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,7(8H)-DIONE	unknown	P28482
+BE0009668		experimental	DB07794	5-(2-PHENYLPYRAZOLO[1,5-A]PYRIDIN-3-YL)-1H-PYRAZOLO[3,4-C]PYRIDAZIN-3-AMINE	unknown	P28482
+BE0009668		experimental	DB07905	Hypothemycin	unknown	P28482
+BE0009668		experimental	DB02116	Olomoucine	unknown	P28482
+BE0009668		experimental	DB08513	[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID	unknown	P28482
+BE0009668		experimental	DB08521	4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine	unknown	P28482
+BE0009668		experimental	DB04338	SB220025	unknown	P28482
+BE0009668		approved, experimental	DB11120	Turpentine	unknown	P28482
+BE0009668	inhibitor	investigational	DB13930	Ulixertinib	unknown	P28482
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	P28482
+BE0009668	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P28482
+BE0009668		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	Q16659
+BE0009668	inhibitor	approved, investigational	DB01017	Minocycline	unknown	Q16659
+BE0001062	inhibitor	approved, investigational	DB00605	Sulindac	unknown	P27361
+BE0001062	inducer	approved, investigational	DB01169	Arsenic trioxide	yes	P27361
+BE0001062	inhibitor	experimental	DB02733	Purvalanol	unknown	P27361
+BE0001062		investigational	DB06195	Seliciclib	unknown	P27361
+BE0001062		experimental	DB04604	5-iodotubercidin	unknown	P27361
+BE0001062	inhibitor	investigational	DB13930	Ulixertinib	unknown	P27361
+BE0001062		approved, investigational	DB08862	Cholecystokinin	unknown	P27361
+BE0001062		approved, vet_approved	DB00945	Acetylsalicylic acid	unknown	P27361
+BE0001062	inhibitor	approved, investigational	DB01017	Minocycline	unknown	P27361
+BE0003462		investigational	DB05959	ENMD-1198	unknown	
+BE0003462	inhibitor	investigational	DB16630	OPB-111077	unknown	
+BE0003462		investigational	DB05959	ENMD-1198	unknown	P40763
+BE0003462	inhibitor	investigational	DB16630	OPB-111077	unknown	P40763
+BE0003768		experimental	DB01955	1,4-Butanediol	unknown	
+BE0003768		experimental	DB02795	P-Anisic Acid	unknown	
+BE0003768		approved, withdrawn	DB03585	Oxyphenbutazone	unknown	
+BE0003768		approved, investigational	DB09462	Glycerin	unknown	
+BE0003768	unknown	approved	DB00233	Aminosalicylic acid	unknown	
+BE0003768		investigational	DB04725	Licofelone	unknown	
+BE0003768		experimental	DB06987	(R)-Atenolol	unknown	
+BE0003768		experimental	DB02636	9-Hydroxy-8-Methoxy-6-Nitro-Phenanthrol[3,4-D][1,3]Dioxole-5-Carboxylic Acid	unknown	
+BE0003768		experimental	DB07500	(2E)-1-[2-hydroxy-4-methoxy-5-(3-methylbut-2-en-1-yl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one	unknown	
+BE0003768		experimental	DB07950	Indoleacetic acid	unknown	
+BE0003768		experimental	DB07958	(2-CARBAMOYLMETHYL-5-PROPYL-OCTAHYDRO-INDOL-7-YL)ACETIC ACID	unknown	
+BE0003768		experimental	DB02758	Indolepropionic acid	unknown	
+BE0003768		approved, investigational, withdrawn	DB04743	Nimesulide	unknown	
+BE0003768		experimental	DB08447	3-{3-[(DIMETHYLAMINO)METHYL]-1H-INDOL-7-YL}PROPAN-1-OL	unknown	
+BE0003768		experimental	DB02448	N-Tridecanoic Acid	unknown	
+BE0003997		experimental	DB02210	Hexane-1,6-Diol	unknown	
+BE0003997	inhibitor	experimental	DB04552	Niflumic acid	yes	
+BE0003997		experimental	DB02795	P-Anisic Acid	unknown	
+BE0003997		experimental	DB03565	1-O-Octyl-2-Heptylphosphonyl-Sn-Glycero-3-Phosphoethanolamine	unknown	
+BE0003997		experimental	DB03587	Pyruvaldehyde	unknown	
+BE0003997		experimental	DB03633	Lpc-Ether	unknown	
+BE0003997		experimental, investigational	DB02938	Heptanoic acid	unknown	
+BE0003997		approved	DB02659	Cholic Acid	unknown	
+BE0003997		experimental	DB07657	PHOSPHONIC ACID 2-DODECANOYLAMINO-HEXYL ESTER PROPYL ESTER	unknown	
+BE0003997		experimental	DB07836	1-DECYL-3-TRIFLUORO ETHYL-SN-GLYCERO-2-PHOSPHOMETHANOL	unknown	
+BE0003997		experimental	DB02448	N-Tridecanoic Acid	unknown	
+BE0003997	antagonist	approved	DB00795	Sulfasalazine	unknown	
+BE0003997	inhibitor	approved	DB00972	Azelastine	unknown	
+BE0003997	inhibitorinducer	experimental, investigational	DB14009	Medical Cannabis	unknown	
+BE0003768		experimental	DB01955	1,4-Butanediol	unknown	Q9NZK7
+BE0003768		experimental	DB02795	P-Anisic Acid	unknown	Q9NZK7
+BE0003768		approved, withdrawn	DB03585	Oxyphenbutazone	unknown	Q9NZK7
+BE0003768		approved, investigational	DB09462	Glycerin	unknown	Q9NZK7
+BE0003768	unknown	approved	DB00233	Aminosalicylic acid	unknown	Q9NZK7
+BE0003768		investigational	DB04725	Licofelone	unknown	Q9NZK7
+BE0003768		experimental	DB06987	(R)-Atenolol	unknown	Q9NZK7
+BE0003768		experimental	DB02636	9-Hydroxy-8-Methoxy-6-Nitro-Phenanthrol[3,4-D][1,3]Dioxole-5-Carboxylic Acid	unknown	Q9NZK7
+BE0003768		experimental	DB07500	(2E)-1-[2-hydroxy-4-methoxy-5-(3-methylbut-2-en-1-yl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one	unknown	Q9NZK7
+BE0003768		experimental	DB07950	Indoleacetic acid	unknown	Q9NZK7
+BE0003768		experimental	DB07958	(2-CARBAMOYLMETHYL-5-PROPYL-OCTAHYDRO-INDOL-7-YL)ACETIC ACID	unknown	Q9NZK7
+BE0003768		experimental	DB02758	Indolepropionic acid	unknown	Q9NZK7
+BE0003768		approved, investigational, withdrawn	DB04743	Nimesulide	unknown	Q9NZK7
+BE0003768		experimental	DB08447	3-{3-[(DIMETHYLAMINO)METHYL]-1H-INDOL-7-YL}PROPAN-1-OL	unknown	Q9NZK7
+BE0003768		experimental	DB02448	N-Tridecanoic Acid	unknown	Q9NZK7
+BE0000704	antibody	approved, investigational	DB00005	Etanercept	yes	
+BE0000704	antibody	approved, experimental	DB00051	Adalimumab	yes	
+BE0000704	inhibitor	approved	DB00065	Infliximab	yes	
+BE0000704	inhibitor	approved, investigational, vet_approved	DB00608	Chloroquine	unknown	
+BE0000704	other/unknown	approved, investigational, vet_approved	DB01407	Clenbuterol	unknown	
+BE0000704	other/unknown	investigational	DB01411	Pranlukast	unknown	
+BE0000704	inhibitor	approved	DB01427	Amrinone	unknown	
+BE0000704		investigational	DB05207	SD118	unknown	
+BE0000704		investigational	DB05218	PN0621	unknown	
+BE0000704		investigational	DB05017	YSIL6	unknown	
+BE0000704		investigational	DB05303	OMS-103HP	unknown	
+BE0000704		investigational	DB04956	Afelimomab	unknown	
+BE0000704		investigational	DB05412	Talmapimod	unknown	
+BE0000704		investigational	DB05470	VX-702	unknown	
+BE0000704		investigational	DB05744	CRx-139	unknown	
+BE0000704		investigational	DB05767	Andrographolide	unknown	
+BE0000704		investigational	DB05758	CYT007-TNFQb	unknown	
+BE0000704		investigational	DB05869	Ethyl pyruvate	unknown	
+BE0000704		investigational	DB05879	AME-527	unknown	
+BE0000704		investigational	DB05968	PR-104	unknown	
+BE0000704		approved, investigational	DB11967	Binimetinib	unknown	
+BE0000704		investigational	DB05513	Atiprimod	unknown	
+BE0000704		investigational	DB05992	Plinabulin	unknown	
+BE0000704		investigational	DB06495	Onercept	unknown	
+BE0000704		investigational	DB06444	Dexanabinol	unknown	
+BE0000704	neutralizer	approved	DB08904	Certolizumab pegol	yes	
+BE0000704	inhibitor	approved	DB08910	Pomalidomide	yes	
+BE0000704	antibody	approved	DB06674	Golimumab	yes	
+BE0000704	antagonistagonist	approved, vet_approved	DB00668	Epinephrine	unknown	
+BE0000704	inhibitor	approved	DB00852	Pseudoephedrine	unknown	
+BE0000704		investigational	DB12140	Dilmapimod	unknown	
+BE0000704	inhibitor	experimental	DB09221	Polaprezinc	unknown	
+BE0000704	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	
+BE0000704	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	
+BE0000704	antagonist	approved, experimental	DB13751	Glycyrrhizic acid	yes	
+BE0000704	inducer	investigational	DB11752	Bryostatin 1	unknown	
+BE0003997		experimental	DB02210	Hexane-1,6-Diol	unknown	P04054
+BE0003997	inhibitor	experimental	DB04552	Niflumic acid	yes	P04054
+BE0003997		experimental	DB02795	P-Anisic Acid	unknown	P04054
+BE0003997		experimental	DB03565	1-O-Octyl-2-Heptylphosphonyl-Sn-Glycero-3-Phosphoethanolamine	unknown	P04054
+BE0003997		experimental	DB03587	Pyruvaldehyde	unknown	P04054
+BE0003997		experimental	DB03633	Lpc-Ether	unknown	P04054
+BE0003997		experimental, investigational	DB02938	Heptanoic acid	unknown	P04054
+BE0003997		approved	DB02659	Cholic Acid	unknown	P04054
+BE0003997		experimental	DB07657	PHOSPHONIC ACID 2-DODECANOYLAMINO-HEXYL ESTER PROPYL ESTER	unknown	P04054
+BE0003997		experimental	DB07836	1-DECYL-3-TRIFLUORO ETHYL-SN-GLYCERO-2-PHOSPHOMETHANOL	unknown	P04054
+BE0003997		experimental	DB02448	N-Tridecanoic Acid	unknown	P04054
+BE0003997	antagonist	approved	DB00795	Sulfasalazine	unknown	P04054
+BE0003997	inhibitor	approved	DB00972	Azelastine	unknown	P04054
+BE0003997	inhibitorinducer	experimental, investigational	DB14009	Medical Cannabis	unknown	P04054
+BE0000981		experimental	DB02763	5-Mercapto-2-Nitro-Benzoic Acid	unknown	
+BE0000981	inhibitor	approved, investigational	DB05679	Ustekinumab	yes	
+BE0000981		investigational	DB05459	Briakinumab	unknown	
+BE0000981		investigational	DB05848	humanized SMART Anti-IL-12 Antibody	unknown	
+BE0000704	antibody	approved, investigational	DB00005	Etanercept	yes	P01375
+BE0000704	antibody	approved, experimental	DB00051	Adalimumab	yes	P01375
+BE0000704	inhibitor	approved	DB00065	Infliximab	yes	P01375
+BE0000704	inhibitor	approved, investigational, vet_approved	DB00608	Chloroquine	unknown	P01375
+BE0000704	other/unknown	approved, investigational, vet_approved	DB01407	Clenbuterol	unknown	P01375
+BE0000704	other/unknown	investigational	DB01411	Pranlukast	unknown	P01375
+BE0000704	inhibitor	approved	DB01427	Amrinone	unknown	P01375
+BE0000704		investigational	DB05207	SD118	unknown	P01375
+BE0000704		investigational	DB05218	PN0621	unknown	P01375
+BE0000704		investigational	DB05017	YSIL6	unknown	P01375
+BE0000704		investigational	DB05303	OMS-103HP	unknown	P01375
+BE0000704		investigational	DB04956	Afelimomab	unknown	P01375
+BE0000704		investigational	DB05412	Talmapimod	unknown	P01375
+BE0000704		investigational	DB05470	VX-702	unknown	P01375
+BE0000704		investigational	DB05744	CRx-139	unknown	P01375
+BE0000704		investigational	DB05767	Andrographolide	unknown	P01375
+BE0000704		investigational	DB05758	CYT007-TNFQb	unknown	P01375
+BE0000704		investigational	DB05869	Ethyl pyruvate	unknown	P01375
+BE0000704		investigational	DB05879	AME-527	unknown	P01375
+BE0000704		investigational	DB05968	PR-104	unknown	P01375
+BE0000704		approved, investigational	DB11967	Binimetinib	unknown	P01375
+BE0000704		investigational	DB05513	Atiprimod	unknown	P01375
+BE0000704		investigational	DB05992	Plinabulin	unknown	P01375
+BE0000704		investigational	DB06495	Onercept	unknown	P01375
+BE0000704		investigational	DB06444	Dexanabinol	unknown	P01375
+BE0000704	neutralizer	approved	DB08904	Certolizumab pegol	yes	P01375
+BE0000704	inhibitor	approved	DB08910	Pomalidomide	yes	P01375
+BE0000704	antibody	approved	DB06674	Golimumab	yes	P01375
+BE0000704	antagonistagonist	approved, vet_approved	DB00668	Epinephrine	unknown	P01375
+BE0000704	inhibitor	approved	DB00852	Pseudoephedrine	unknown	P01375
+BE0000704		investigational	DB12140	Dilmapimod	unknown	P01375
+BE0000704	inhibitor	experimental	DB09221	Polaprezinc	unknown	P01375
+BE0000704	agonist	approved	DB10770	Foreskin fibroblast (neonatal)	unknown	P01375
+BE0000704	agonist	approved	DB10772	Foreskin keratinocyte (neonatal)	yes	P01375
+BE0000704	antagonist	approved, experimental	DB13751	Glycyrrhizic acid	yes	P01375
+BE0000704	inducer	investigational	DB11752	Bryostatin 1	unknown	P01375
+BE0000981		experimental	DB02763	5-Mercapto-2-Nitro-Benzoic Acid	unknown	P29460
+BE0000981	inhibitor	approved, investigational	DB05679	Ustekinumab	yes	P29460
+BE0000981		investigational	DB05459	Briakinumab	unknown	P29460
+BE0000981		investigational	DB05848	humanized SMART Anti-IL-12 Antibody	unknown	P29460
+BE0000981	inhibitor	approved, investigational	DB05679	Ustekinumab	yes	P29460
+BE0000981	antagonist	approved, investigational	DB14004	Tildrakizumab	yes	P29460
+BE0000981	inhibitor	approved, investigational	DB14762	Risankizumab	yes	P29460
+BE0004583		investigational, nutraceutical	DB01992	Coenzyme A	unknown	
+BE0002683		investigational, nutraceutical	DB01992	Coenzyme A	unknown	
+BE0002683		experimental	DB08186	(3E)-4-(1-METHYL-1H-INDOL-3-YL)BUT-3-EN-2-ONE	unknown	
+BE0002683		experimental	DB08291	N-(3-AMINOPROPYL)-2-NITROBENZENAMINE	unknown	
+BE0004578		investigational, nutraceutical	DB01992	Coenzyme A	unknown	
+BE0004578		experimental	DB02039	S-Acetyl-Cysteine	unknown	
+BE0004583		investigational, nutraceutical	DB01992	Coenzyme A	unknown	Q92830
+BE0002683		investigational, nutraceutical	DB01992	Coenzyme A	unknown	Q92831
+BE0002683		experimental	DB08186	(3E)-4-(1-METHYL-1H-INDOL-3-YL)BUT-3-EN-2-ONE	unknown	Q92831
+BE0002683		experimental	DB08291	N-(3-AMINOPROPYL)-2-NITROBENZENAMINE	unknown	Q92831
+BE0010032	binder	approved, vet_approved	DB00107	Oxytocin	unknown	
+BE0004578		investigational, nutraceutical	DB01992	Coenzyme A	unknown	Q92993
+BE0004578		experimental	DB02039	S-Acetyl-Cysteine	unknown	Q92993
+BE0003433		investigational	DB05895	HGS-TR2J	unknown	
+BE0003433		investigational	DB06599	Lexatumumab	unknown	
+BE0010032	binder	approved, vet_approved	DB00107	Oxytocin	unknown	Q15109
+BE0003428		investigational	DB05869	Ethyl pyruvate	unknown	
+BE0003428	inhibitor	approved, investigational, vet_approved	DB00608	Chloroquine	unknown	
+BE0003433		investigational	DB05895	HGS-TR2J	unknown	O14763
+BE0003433		investigational	DB06599	Lexatumumab	unknown	O14763
+BE0000394		experimental	DB02341	Mdl 101,146	unknown	
+BE0000394	inhibitor	experimental, investigational	DB03925	Freselestat	unknown	
+BE0000394	inhibitor	approved	DB00058	Alpha-1-proteinase inhibitor	yes	
+BE0000394		investigational	DB05161	Elafin	unknown	
+BE0000394	substrate	approved	DB00019	Pegfilgrastim	no	
+BE0000394	substrate	approved	DB00099	Filgrastim	unknown	
+BE0003428		investigational	DB05869	Ethyl pyruvate	unknown	P09429
+BE0003428	inhibitor	approved, investigational, vet_approved	DB00608	Chloroquine	unknown	P09429
+BE0003309		experimental	DB04419	D-norleucine	unknown	
+BE0003309		investigational	DB05883	ABX-PTH	unknown	
+BE0000394		experimental	DB02341	Mdl 101,146	unknown	P08246
+BE0000394	inhibitor	experimental, investigational	DB03925	Freselestat	unknown	P08246
+BE0000394	inhibitor	approved	DB00058	Alpha-1-proteinase inhibitor	yes	P08246
+BE0000394		investigational	DB05161	Elafin	unknown	P08246
+BE0000394	substrate	approved	DB00019	Pegfilgrastim	no	P08246
+BE0000394	substrate	approved	DB00099	Filgrastim	unknown	P08246
+BE0003517		investigational	DB06511	AMGN-0007	unknown	
+BE0003517	antibody	approved	DB06643	Denosumab	yes	
+BE0003517	inhibitor	approved	DB00480	Lenalidomide	yes	
+BE0003517	antagonist	experimental	DB11582	Thiocolchicoside	unknown	

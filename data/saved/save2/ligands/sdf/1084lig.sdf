@@ -1,0 +1,167 @@
+123935
+  -OEChem-11201922183D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+   -0.0189    2.6053   -1.1286 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1388   -0.6028    1.6144 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4271    2.9333    0.5797 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4102   -1.7369    0.9141 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9820    0.3409   -0.1621 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5464   -2.1716   -0.1643 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9073   -1.6170   -1.3302 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0864    0.9229    0.6105 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2442   -0.0651    0.7983 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0138   -0.3706   -0.4899 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0055   -0.8980   -0.6324 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0210   -0.3840    0.4105 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5816    2.2369    0.0281 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1305    0.1087   -0.8381 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1726   -1.3021   -0.2099 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3282    1.1685    1.5964 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8630   -1.0005    1.2284 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9425    0.3517    1.5366 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3567   -0.8464   -1.2265 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4198    0.5451   -0.9334 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9611    0.4652   -1.1702 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4887   -1.0707   -1.5827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7334    1.0618   -1.2046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6619    0.3168    0.0978 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8581   -0.2569   -1.5708 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0303   -2.0426    0.7234 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7865   -2.8280    0.0101 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3154    3.4670   -1.4573 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079   -2.2376   -1.2727 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6825   -1.2447   -2.2473 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 28  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 13  2  0  0  0  0
+  4 15  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 29  1  0  0  0  0
+  7 30  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11876
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HJCMDXDYPOUFDY-WHFBIAKZSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H](N)C(=O)N[C@@H](CCC(N)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15N3O4/c1-4(9)7(13)11-5(8(14)15)2-3-6(10)12/h4-5H,2-3,9H2,1H3,(H2,10,12)(H,11,13)(H,14,15)/t4-,5-/m0/s1
+
+> <INCHI_KEY>
+HJCMDXDYPOUFDY-WHFBIAKZSA-N
+
+> <FORMULA>
+C8H15N3O4
+
+> <MOLECULAR_WEIGHT>
+217.225
+
+> <EXACT_MASS>
+217.106255975
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.968532115692913
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-[(2S)-2-aminopropanamido]-4-carbamoylbutanoic acid
+
+> <ALOGPS_LOGP>
+-3.15
+
+> <JCHEM_LOGP>
+-4.5397143079645135
+
+> <ALOGPS_LOGS>
+-1.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.513398952678736
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.57161106927663
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.388592136173589
+
+> <JCHEM_POLAR_SURFACE_AREA>
+135.51000000000002
+
+> <JCHEM_REFRACTIVITY>
+50.407300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.27e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-{[2-amino-2-({2-carboxy-1-[(1-carboxy-2-sulfanylethyl)carbamoyl]ethyl}carbamoyl)ethyl]carbamoyl}-2-[(4-{[(4-oxo-1H-pteridin-6-yl)methyl]amino}phenyl)formamido]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

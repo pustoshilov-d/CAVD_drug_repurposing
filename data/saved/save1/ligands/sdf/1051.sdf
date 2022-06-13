@@ -1,0 +1,146 @@
+11073394
+  -OEChem-02282018053D
+
+ 18 17  0     1  0  0  0  0  0999 V2000
+    1.6000   -1.4045    0.2891 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6336    0.3903   -1.0952 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5757   -1.4597    0.2534 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2287    1.7942    0.8582 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3791   -0.0061    0.2347 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0337    0.3443    0.7513 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6977    0.5310   -1.1637 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565   -0.1895   -0.1278 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1104    0.4243    0.9310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1672   -0.0696    1.7594 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0390    0.1016   -1.9261 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5960    1.6204   -1.2018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7296    0.2915   -1.4452 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9451   -1.9029   -0.4139 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5188   -1.6811   -0.0643 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1159    1.9868    1.3223 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4959    2.1918    1.4547 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3267   -1.7419   -0.2769 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04804
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SXGMVGOVILIERA-GBXIJSLDSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@@H](N)[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10N2O2/c1-2(5)3(6)4(7)8/h2-3H,5-6H2,1H3,(H,7,8)/t2-,3+/m1/s1
+
+> <INCHI_KEY>
+SXGMVGOVILIERA-GBXIJSLDSA-N
+
+> <FORMULA>
+C4H10N2O2
+
+> <MOLECULAR_WEIGHT>
+118.1344
+
+> <EXACT_MASS>
+118.074227574
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.3242522253713944
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.639171627079492
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R)-2,3-diaminobutanoic acid
+
+> <ALOGPS_LOGP>
+-3.71
+
+> <JCHEM_LOGP>
+-3.604996900594267
+
+> <ALOGPS_LOGS>
+0.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.2240980415006453
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.78402521539802
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.34
+
+> <JCHEM_REFRACTIVITY>
+28.1173
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.89e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-saccharopine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

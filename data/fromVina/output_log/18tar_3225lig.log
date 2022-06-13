@@ -1,0 +1,43 @@
+AutoDock Vina v1.2.3
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli  #
+# AutoDock Vina 1.2.0: New Docking Methods, Expanded Force      #
+# Field, and Python Bindings, J. Chem. Inf. Model. (2021)       #
+# DOI 10.1021/acs.jcim.1c00203                                  #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, J. Comp. Chem. (2010)                         #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see https://github.com/ccsb-scripps/AutoDock-Vina for  #
+# more information.                                             #
+#################################################################
+
+Scoring function : ad4
+Ligand: /home/scip/dmitriy.pustoshilov/home/dpustoshilov/test/work/3225lig.pdbqt
+Exhaustiveness: 8
+CPU: 8
+Verbosity: 1
+
+Reading AD4.2 maps ... done.
+Performing docking (random seed: 1227269970) ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1          225          0          0
+   2          281       4.55      9.026
+   3        283.5      3.455      5.051
+   4        292.4      3.358      7.239
+   5        311.3      2.123      7.151
+   6        324.2      3.864      7.369
+   7        329.1      2.874      3.102
+   8          330      1.393      2.119
+   9        336.4       4.86      6.816

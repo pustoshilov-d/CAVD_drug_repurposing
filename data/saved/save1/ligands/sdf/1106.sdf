@@ -1,0 +1,150 @@
+89034
+  -OEChem-06211811593D
+
+ 23 22  0     1  0  0  0  0  0999 V2000
+   -2.5071   -0.1695   -0.1858 S   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5463    0.3151   -1.5580 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7816   -1.6239    0.2254 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6233    0.2909   -0.6539 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6249    1.7920    0.2426 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6118   -1.6573    0.2299 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0313    0.4661    0.5454 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2090   -0.1879   -0.0541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5056    0.3689    0.5485 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.7884    0.6964    0.6962 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7408   -0.2908   -0.0362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0368    1.5472    0.3744 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0834    0.2834    1.6237 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2150   -0.0610   -1.1451 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1763   -1.2707    0.1158 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5243    0.2346    1.6354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6506    1.7694    0.5472 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7543    0.3886    0.2897 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7254    0.4486    1.7575 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6472    1.9367   -0.7660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5015    2.1580    0.6116 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8307   -2.2390   -0.0847 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5870   -2.0443   -0.1445 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14103
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SXTAYKAGBXMACB-DPVSGNNYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CS(=N)(=O)CC[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12N2O3S/c1-11(7,10)3-2-4(6)5(8)9/h4,7H,2-3,6H2,1H3,(H,8,9)/t4-,11?/m0/s1
+
+> <INCHI_KEY>
+SXTAYKAGBXMACB-DPVSGNNYSA-N
+
+> <FORMULA>
+C5H12N2O3S
+
+> <MOLECULAR_WEIGHT>
+180.22
+
+> <EXACT_MASS>
+180.056863428
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.191431366758287
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-[imino(methyl)oxo-lambda6-sulfanyl]butanoic acid
+
+> <ALOGPS_LOGP>
+-2.97
+
+> <JCHEM_LOGP>
+-4.446533138197991
+
+> <ALOGPS_LOGS>
+-1.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8865595865396951
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.091048462528423
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.23999999999998
+
+> <JCHEM_REFRACTIVITY>
+40.216800000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.39e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-4-[imino(methyl)oxo-lambda6-sulfanyl]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,13 @@
+npts 40 40 40                        # num.grid points in xyz
+gridfld 20tar.maps.fld               # grid_data_file
+spacing 0.375                        # spacing(A)
+receptor_types A C NA OA N SA HD     # receptor atom types
+ligand_types C OA                    # ligand atom types
+receptor 20tar.pdbqt                 # macromolecule
+gridcenter 0.000 0.000 -0.000        # xyz-coordinates or auto
+smooth 0.5                           # store minimum energy w/in rad(A)
+map 20tar.C.map                      # atom-specific affinity map
+map 20tar.OA.map                     # atom-specific affinity map
+elecmap 20tar.e.map                  # electrostatic potential map
+dsolvmap 20tar.d.map              # desolvation potential map
+dielectric -0.1465                   # <0, AD4 distance-dep.diel;>0, constant

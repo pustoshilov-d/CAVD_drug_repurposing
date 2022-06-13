@@ -1,0 +1,159 @@
+16564
+  -OEChem-12011922593D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+   -0.1060   -0.5833   -0.6580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2448    1.8807    0.3089 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4886   -0.1183    0.2622 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2886   -0.9405    1.4747 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7210   -0.1624   -0.6236 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5068    0.6953   -0.8741 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1639    1.6305    0.2779 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0088    0.4769   -0.9819 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4178   -0.4696   -0.2798 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9725    0.7274    0.1783 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2039   -1.6196   -0.3578 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3246    0.7864    0.5167 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5527   -1.5632   -0.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1135   -0.3606    0.4255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7581   -0.3795    0.3368 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1290    1.0971   -1.8240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4530    1.2214    1.2542 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646    2.5966    0.1548 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5071    1.4337   -1.1774 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2063   -0.2068   -1.8168 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7771   -2.5580   -0.7010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7674    1.7166    0.8621 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1682   -2.4556   -0.0720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1649   -0.3186    0.6949 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7023   -1.1592    2.2728 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2777   -1.1505    1.5510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6911   -0.4064   -0.4554 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5030    0.2457   -1.5256 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 15  1  0  0  0  0
+  4 25  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 27  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13211
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HIUVKVDQFXDZHU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)NCC1COC2=C(O1)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N3O2/c11-10(12)13-5-7-6-14-8-3-1-2-4-9(8)15-7/h1-4,7H,5-6H2,(H4,11,12,13)
+
+> <INCHI_KEY>
+HIUVKVDQFXDZHU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H13N3O2
+
+> <MOLECULAR_WEIGHT>
+207.233
+
+> <EXACT_MASS>
+207.100776671
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.58322068905669
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(2,3-dihydro-1,4-benzodioxin-2-yl)methyl]guanidine
+
+> <ALOGPS_LOGP>
+0.10
+
+> <JCHEM_LOGP>
+0.41539085200000003
+
+> <ALOGPS_LOGS>
+-2.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.992470514861912
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.36000000000001
+
+> <JCHEM_REFRACTIVITY>
+65.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.33e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-{5-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methanesulfinyl]-1,3-benzodiazol-1-ylsulfonyl}phenoxyacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

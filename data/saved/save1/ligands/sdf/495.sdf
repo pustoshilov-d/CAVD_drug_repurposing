@@ -1,0 +1,176 @@
+119396
+  -OEChem-10051723553D
+
+ 30 32  0     0  0  0  0  0  0999 V2000
+   -1.2818    2.2754   -0.0027 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2012    2.8774    0.0015 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8040    1.8663    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2749    0.3112    0.0011 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7744   -1.8965    0.0025 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4560   -1.8122   -0.0024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6327   -0.7747   -0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8622   -1.2786   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3603    0.5974   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1436    0.0917    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0392    1.0750   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9710   -1.1985   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4066    1.5293   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9310   -2.1886   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4696    0.5444    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0132   -0.2712   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7305    1.0918   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2514   -1.7385    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5200   -0.3728    0.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3938   -0.7284    0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3286   -2.4423    0.8873 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -2.4393   -0.8943 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1871   -2.2652   -0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7369   -3.2587   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5157    1.8436    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0686   -2.4539    0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5545   -0.0395    0.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2546    3.0823    0.0061 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7720    1.9590    0.0021 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2054    0.0005    0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 13  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 20  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 19 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13175
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OZFQHULMMDWMIV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC(O)=C2C(CC3=C(C(O)=CC=C3)C2=O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10O5/c16-10-3-1-2-7-4-8-5-9(15(19)20)6-11(17)13(8)14(18)12(7)10/h1-3,5-6,16-17H,4H2,(H,19,20)
+
+> <INCHI_KEY>
+OZFQHULMMDWMIV-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10O5
+
+> <MOLECULAR_WEIGHT>
+270.2369
+
+> <EXACT_MASS>
+270.05282343
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.047655957292876
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.559335316480205
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4,5-dihydroxy-10-oxo-9,10-dihydroanthracene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.54
+
+> <JCHEM_LOGP>
+3.9015993289999997
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.46661380473672
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5360466447898564
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.6153656680590025
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+71.5307
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

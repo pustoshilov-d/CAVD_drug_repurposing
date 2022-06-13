@@ -1,0 +1,4 @@
+autobox_ligand = /home/scip/dmitriy.pustoshilov/runSmina/forSmina/14/25tar/box.pdbqt
+exhaustiveness = 4
+autobox_add = 5
+scoring = vinardo
