@@ -1,4 +1,0 @@
-autobox_ligand = $PATH/box.pdbqt
-exhaustiveness = 4
-autobox_add = 5
-scoring = vinardo
