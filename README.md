@@ -1,4 +1,4 @@
-# CAVD_drug_repurposing
+# CAVD drug repurposing
 ![alt text](https://github.com/pustoshilov-d/CAVD_drug_repurposing/blob/master/presentation/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B41.JPG?raw=true)
 ![alt text](https://github.com/pustoshilov-d/CAVD_drug_repurposing/blob/master/presentation/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B42.JPG?raw=true)
 ![alt text](https://github.com/pustoshilov-d/CAVD_drug_repurposing/blob/master/presentation/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B43.JPG?raw=true)
